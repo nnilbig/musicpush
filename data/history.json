@@ -1,3 +1,18 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "id": "6798220519",
+      "name": "幾重(ライブバージョン)",
+      "artist": "ゆず",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/45/c7/8345c7e8-62bf-f9c9-c014-ada6097d58a6/TFDS-01415.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E5%B9%BE%E9%87%8D-%E3%83%A9%E3%82%A4%E3%83%96%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3/6798220518?i=6798220519&uo=2",
+      "releaseDate": "2026-08-14T05:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-08-15T05:36:52.685Z",
+      "insight": {
+        "歌手簡介": "ゆず 是這次登上 iTunes 日本單曲榜的藝人，以《幾重(ライブバージョン)》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《幾重(ライブバージョン)》於 2026/8/14 發行，屬於 J-Pop 曲風，是 ゆず 近期受到聽眾喜愛的代表作之一。"
+      }
+    }
+  ]
 }
