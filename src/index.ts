@@ -6,25 +6,24 @@ import { fetchTopSongsJP, filterUnrecommended } from './itunesService.js';
 import { renderSite } from './pageService.js';
 
 const SITE_DIR = path.resolve(process.cwd(), 'site');
+const DAILY_PICK_COUNT = 3;
 
 async function main(): Promise<void> {
   const [songs, history] = await Promise.all([fetchTopSongsJP(), loadHistory()]);
   const recommendedIds = history.entries.map((entry) => entry.id);
   const candidates = filterUnrecommended(songs, recommendedIds);
+  const picks = candidates.slice(0, DAILY_PICK_COUNT);
 
-  if (candidates.length === 0) {
+  if (picks.length === 0) {
     console.log('今日榜單中的歌曲皆已推薦過，略過本次更新。');
   } else {
-    const song = candidates[0];
-    console.log(`本次推薦：${song.name} - ${song.artist}`);
-
-    const insight = buildSongInsight(song);
-    history.entries.unshift({
-      ...song,
-      recommendedAt: new Date().toISOString(),
-      insight,
+    const recommendedAt = new Date().toISOString();
+    const newEntries = picks.map((song) => {
+      console.log(`本次推薦：${song.name} - ${song.artist}`);
+      return { ...song, recommendedAt, insight: buildSongInsight(song) };
     });
 
+    history.entries = [...newEntries, ...history.entries];
     await saveHistory(history);
   }
 

@@ -14,15 +14,24 @@ function formatDate(iso: string): string {
   return `${d.getFullYear()}/${d.getMonth() + 1}/${d.getDate()}`;
 }
 
-function renderCard(entry: HistoryEntry, isLatest: boolean): string {
+function youtubeSearchUrl(name: string, artist: string): string {
+  return `https://www.youtube.com/results?search_query=${encodeURIComponent(`${artist} ${name}`)}`;
+}
+
+function renderCard(entry: HistoryEntry, isToday: boolean): string {
   return `
-    <article class="card${isLatest ? ' latest' : ''}">
-      ${isLatest ? '<span class="badge">今日推薦</span>' : ''}
+    <article class="card${isToday ? ' latest' : ''}">
+      ${isToday ? '<span class="badge">今日推薦</span>' : ''}
       <img class="artwork" src="${escapeHtml(entry.artworkUrl)}" alt="${escapeHtml(entry.name)}" loading="lazy" />
       <div class="content">
-        <h2><a href="${escapeHtml(entry.trackViewUrl)}" target="_blank" rel="noopener">${escapeHtml(entry.name)}</a></h2>
+        <h2>${escapeHtml(entry.name)}</h2>
         <p class="artist">${escapeHtml(entry.artist)}</p>
         <p class="date">${formatDate(entry.recommendedAt)}</p>
+        <p class="links">
+          <a href="${escapeHtml(entry.trackViewUrl)}" target="_blank" rel="noopener">Apple Music</a>
+          ・
+          <a href="${escapeHtml(youtubeSearchUrl(entry.name, entry.artist))}" target="_blank" rel="noopener">YouTube 搜尋</a>
+        </p>
         <div class="insight">
           <h3>🎤 歌手簡介</h3>
           <p>${escapeHtml(entry.insight.歌手簡介)}</p>
@@ -34,7 +43,8 @@ function renderCard(entry: HistoryEntry, isLatest: boolean): string {
 }
 
 export function renderSite(history: HistoryData): string {
-  const cards = history.entries.map((entry, i) => renderCard(entry, i === 0)).join('\n');
+  const today = formatDate(new Date().toISOString());
+  const cards = history.entries.map((entry) => renderCard(entry, formatDate(entry.recommendedAt) === today)).join('\n');
   const updated = history.entries[0] ? formatDate(history.entries[0].recommendedAt) : '尚未產生';
 
   return `<!doctype html>
@@ -57,7 +67,10 @@ export function renderSite(history: HistoryData): string {
   .content h2 a { color: #fff; text-decoration: none; }
   .content h2 a:hover { text-decoration: underline; }
   .artist { color: #b8b8b8; margin: 0 0 2px; }
-  .date { color: #777; font-size: 0.8rem; margin: 0 0 12px; }
+  .date { color: #777; font-size: 0.8rem; margin: 0 0 4px; }
+  .links { font-size: 0.85rem; margin: 0 0 12px; }
+  .links a { color: #6fb6ff; text-decoration: none; }
+  .links a:hover { text-decoration: underline; }
   .insight h3 { font-size: 0.85rem; margin: 8px 0 2px; color: #9fd8b6; }
   .insight p { margin: 0; font-size: 0.9rem; line-height: 1.5; color: #d5d5d5; }
 </style>
