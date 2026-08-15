@@ -10,7 +10,7 @@ export async function loadHistory(): Promise<HistoryData> {
     return JSON.parse(raw) as HistoryData;
   } catch (err) {
     if ((err as NodeJS.ErrnoException).code === 'ENOENT') {
-      return { recommendedIds: [] };
+      return { entries: [] };
     }
     throw err;
   }
