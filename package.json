@@ -1,0 +1,20 @@
+{
+  "name": "dailymusic",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "每日抓取 iTunes 日本單曲榜，透過 Claude 產生歌手簡介與創作理念，並推播到 Discord。",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
