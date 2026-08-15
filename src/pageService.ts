@@ -1,3 +1,4 @@
+import { DEFAULT_GENRE } from './selectionService.js';
 import type { HistoryData, HistoryEntry } from './types.js';
 
 function escapeHtml(str: string): string {
@@ -19,11 +20,13 @@ function youtubeSearchUrl(name: string, artist: string): string {
 }
 
 function renderCard(entry: HistoryEntry, isToday: boolean): string {
+  const genre = entry.genre ?? DEFAULT_GENRE;
   return `
-    <article class="card${isToday ? ' latest' : ''}">
+    <article class="card${isToday ? ' latest' : ''}" data-genre="${escapeHtml(genre)}">
       ${isToday ? '<span class="badge">今日推薦</span>' : ''}
       <img class="artwork" src="${escapeHtml(entry.artworkUrl)}" alt="${escapeHtml(entry.name)}" loading="lazy" />
       <div class="content">
+        <span class="genre-tag">${escapeHtml(genre)}</span>
         <h2>${escapeHtml(entry.name)}</h2>
         <p class="artist">${escapeHtml(entry.artist)}</p>
         <p class="date">${formatDate(entry.recommendedAt)}</p>
@@ -42,8 +45,16 @@ function renderCard(entry: HistoryEntry, isToday: boolean): string {
     </article>`;
 }
 
+function renderTabs(genres: string[]): string {
+  const buttons = ['<button class="tab active" type="button" data-genre="__all__">全部</button>']
+    .concat(genres.map((genre) => `<button class="tab" type="button" data-genre="${escapeHtml(genre)}">${escapeHtml(genre)}</button>`))
+    .join('\n    ');
+  return `<nav class="tabs">\n    ${buttons}\n  </nav>`;
+}
+
 export function renderSite(history: HistoryData): string {
   const today = formatDate(new Date().toISOString());
+  const genres = Array.from(new Set(history.entries.map((entry) => entry.genre ?? DEFAULT_GENRE)));
   const cards = history.entries.map((entry) => renderCard(entry, formatDate(entry.recommendedAt) === today)).join('\n');
   const updated = history.entries[0] ? formatDate(history.entries[0].recommendedAt) : '尚未產生';
 
@@ -56,16 +67,20 @@ export function renderSite(history: HistoryData): string {
 <style>
   :root { color-scheme: light dark; }
   body { font-family: -apple-system, "PingFang TC", "Microsoft JhengHei", sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px 64px; background: #0f1115; color: #eaeaea; }
-  header { margin-bottom: 24px; }
+  header { margin-bottom: 16px; }
   h1 { font-size: 1.5rem; margin-bottom: 4px; }
   .updated { color: #9a9a9a; font-size: 0.85rem; }
+  .tabs { display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0 24px; }
+  .tab { font: inherit; border: 1px solid #2a2e38; background: #1a1d24; color: #cfcfcf; border-radius: 999px; padding: 6px 14px; cursor: pointer; font-size: 0.85rem; }
+  .tab:hover { border-color: #3a3f4c; }
+  .tab.active { background: #1db954; border-color: #1db954; color: #06110b; font-weight: 600; }
   .card { display: flex; gap: 16px; background: #1a1d24; border-radius: 12px; padding: 16px; margin-bottom: 16px; position: relative; }
   .card.latest { border: 1px solid #1db954; }
+  .card.hidden { display: none; }
   .badge { position: absolute; top: -10px; left: 16px; background: #1db954; color: #06110b; font-size: 0.75rem; padding: 2px 8px; border-radius: 999px; font-weight: 600; }
   .artwork { width: 96px; height: 96px; border-radius: 8px; object-fit: cover; flex-shrink: 0; }
+  .genre-tag { display: inline-block; font-size: 0.7rem; color: #9fd8b6; background: rgba(29, 185, 84, 0.12); border-radius: 999px; padding: 2px 8px; margin-bottom: 6px; }
   .content h2 { font-size: 1.1rem; margin: 0 0 4px; }
-  .content h2 a { color: #fff; text-decoration: none; }
-  .content h2 a:hover { text-decoration: underline; }
   .artist { color: #b8b8b8; margin: 0 0 2px; }
   .date { color: #777; font-size: 0.8rem; margin: 0 0 4px; }
   .links { font-size: 0.85rem; margin: 0 0 12px; }
@@ -78,11 +93,29 @@ export function renderSite(history: HistoryData): string {
 <body>
 <header>
   <h1>每日日本單曲推薦</h1>
-  <p class="updated">最後更新：${updated}（來源：iTunes 日本單曲榜）</p>
+  <p class="updated">最後更新：${updated}（來源：iTunes 日本單曲榜，分類依 iTunes 實際分類）</p>
 </header>
+${renderTabs(genres)}
 <main>
 ${cards || '<p>尚無推薦紀錄。</p>'}
 </main>
+<script>
+(function () {
+  var tabs = document.querySelectorAll('.tab');
+  var cards = document.querySelectorAll('.card');
+  tabs.forEach(function (tab) {
+    tab.addEventListener('click', function () {
+      tabs.forEach(function (t) { t.classList.remove('active'); });
+      tab.classList.add('active');
+      var genre = tab.getAttribute('data-genre');
+      cards.forEach(function (card) {
+        var match = genre === '__all__' || card.getAttribute('data-genre') === genre;
+        card.classList.toggle('hidden', !match);
+      });
+    });
+  });
+})();
+</script>
 </body>
 </html>
 `;
