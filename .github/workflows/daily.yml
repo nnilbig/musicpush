@@ -31,9 +31,7 @@ jobs:
       - name: Run daily recommendation
         run: npm start
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
 
       - name: Commit updated history
         run: |

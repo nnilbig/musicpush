@@ -1,6 +1,6 @@
-import { generateSongInsight } from './aiService.js';
 import { buildDiscordPayload, sendToDiscord } from './discordService.js';
 import { loadHistory, saveHistory } from './historyService.js';
+import { buildSongInsight } from './insightService.js';
 import { fetchTopSongsJP, filterUnrecommended } from './itunesService.js';
 
 async function main(): Promise<void> {
@@ -20,7 +20,7 @@ async function main(): Promise<void> {
   const song = candidates[0];
   console.log(`本次推薦：${song.name} - ${song.artist}`);
 
-  const insight = await generateSongInsight(song.name, song.artist);
+  const insight = buildSongInsight(song);
   const payload = buildDiscordPayload(song, insight);
   await sendToDiscord(webhookUrl, payload);
 
