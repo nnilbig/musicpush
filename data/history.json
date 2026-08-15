@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "id": "6788211810",
+      "name": "Brand New",
+      "artist": "Mrs. GREEN APPLE",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/a0/b6/41a0b6b9-a720-25e5-fc69-7e9c3ca1296e/26UMGIM73217.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/brand-new/6788211807?i=6788211810&uo=2",
+      "releaseDate": "2026-07-13T05:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-08-15T05:54:23.984Z",
+      "insight": {
+        "歌手簡介": "Mrs. GREEN APPLE 是這次登上 iTunes 日本單曲榜的藝人，以《Brand New》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Brand New》於 2026/7/13 發行，屬於 ロック 曲風，是 Mrs. GREEN APPLE 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6792293588",
+      "name": "机さする",
+      "artist": "青木遥",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/1b/6d/a81b6d69-21ea-6bfa-c56e-4473246db5fe/4550758740391_cover.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E6%9C%BA%E3%81%95%E3%81%99%E3%82%8B/6792293464?i=6792293588&uo=2",
+      "releaseDate": "2026-07-25T05:00:00-07:00",
+      "genre": "アニメ",
+      "recommendedAt": "2026-08-15T05:54:23.984Z",
+      "insight": {
+        "歌手簡介": "青木遥 是這次登上 iTunes 日本單曲榜的藝人，以《机さする》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《机さする》於 2026/7/25 發行，屬於 アニメ 曲風，是 青木遥 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6794271993",
+      "name": "GO GHOST",
+      "artist": "King Gnu",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/f3/49/47f3490b-4395-28ba-e6a9-88c9dd7be8fa/4547366841732.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/go-ghost/6794271990?i=6794271993&uo=2",
+      "releaseDate": "2026-07-29T05:00:00-07:00",
+      "genre": "オルタナティブ",
+      "recommendedAt": "2026-08-15T05:54:23.984Z",
+      "insight": {
+        "歌手簡介": "King Gnu 是這次登上 iTunes 日本單曲榜的藝人，以《GO GHOST》這首 オルタナティブ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《GO GHOST》於 2026/7/29 發行，屬於 オルタナティブ 曲風，是 King Gnu 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6793888335",
       "name": "見知らぬ糸",
       "artist": "スピッツ",
