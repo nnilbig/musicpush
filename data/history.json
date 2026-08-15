@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "id": "6793888335",
+      "name": "見知らぬ糸",
+      "artist": "スピッツ",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/0d/29/ab0d292f-3675-729e-4a8f-eb79a4c88367/26UMGIM87104.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E8%A6%8B%E7%9F%A5%E3%82%89%E3%81%AC%E7%B3%B8/6793888333?i=6793888335&uo=2",
+      "releaseDate": "2026-08-07T05:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-08-15T05:41:53.109Z",
+      "insight": {
+        "歌手簡介": "スピッツ 是這次登上 iTunes 日本單曲榜的藝人，以《見知らぬ糸》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《見知らぬ糸》於 2026/8/7 發行，屬於 ロック 曲風，是 スピッツ 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6794306078",
+      "name": "ハッピーサマーバレンタイン(アニメ「新テニスの王子様」)",
+      "artist": "千歳千里(CV:大須賀 純)",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/3a/d2/093ad2b4-9db7-86b3-7499-97be8ba0734e/PA00223563_0_250649_jacket.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%82%B5%E3%83%9E%E3%83%BC%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3-%E3%82%A2%E3%83%8B%E3%83%A1-%E6%96%B0%E3%83%86%E3%83%8B%E3%82%B9%E3%81%AE%E7%8E%8B%E5%AD%90%E6%A7%98/6794306077?i=6794306078&uo=2",
+      "releaseDate": "2026-08-14T05:00:00-07:00",
+      "genre": "アニメ",
+      "recommendedAt": "2026-08-15T05:41:53.109Z",
+      "insight": {
+        "歌手簡介": "千歳千里(CV:大須賀 純) 是這次登上 iTunes 日本單曲榜的藝人，以《ハッピーサマーバレンタイン(アニメ「新テニスの王子様」)》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《ハッピーサマーバレンタイン(アニメ「新テニスの王子様」)》於 2026/8/14 發行，屬於 アニメ 曲風，是 千歳千里(CV:大須賀 純) 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6793398196",
+      "name": "モンストロ",
+      "artist": "Ado",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/c4/ab/aac4ab69-4af5-db18-4ffd-0199ae43188c/26UMGIM92689.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%83%A2%E3%83%B3%E3%82%B9%E3%83%88%E3%83%AD/6793398195?i=6793398196&uo=2",
+      "releaseDate": "2026-08-07T05:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-08-15T05:41:53.109Z",
+      "insight": {
+        "歌手簡介": "Ado 是這次登上 iTunes 日本單曲榜的藝人，以《モンストロ》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《モンストロ》於 2026/8/7 發行，屬於 J-Pop 曲風，是 Ado 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6798220519",
       "name": "幾重(ライブバージョン)",
       "artist": "ゆず",
