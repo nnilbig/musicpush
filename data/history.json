@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "id": "6793766061",
+      "name": "邂逅",
+      "artist": "福山 雅治",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/e5/32/61e5320b-7ac9-8ef3-5407-0a34d64c120d/26UMGIM93998.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E9%82%82%E9%80%85/6793765847?i=6793766061&uo=2",
+      "releaseDate": "2026-08-10T05:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-08-16T01:10:58.509Z",
+      "insight": {
+        "歌手簡介": "福山 雅治 是這次登上 iTunes 日本單曲榜的藝人，以《邂逅》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《邂逅》於 2026/8/10 發行，屬於 J-Pop 曲風，是 福山 雅治 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6792290934",
+      "name": "くつずれ",
+      "artist": "ハチワレ(CV.田中誠人)",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/76/29/24762904-117f-098f-79f7-f9d5f451fec9/4550758739203_cover.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%81%8F%E3%81%A4%E3%81%9A%E3%82%8C/6792290933?i=6792290934&uo=2",
+      "releaseDate": "2026-07-25T05:00:00-07:00",
+      "genre": "アニメ",
+      "recommendedAt": "2026-08-16T01:10:58.509Z",
+      "insight": {
+        "歌手簡介": "ハチワレ(CV.田中誠人) 是這次登上 iTunes 日本單曲榜的藝人，以《くつずれ》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《くつずれ》於 2026/7/25 發行，屬於 アニメ 曲風，是 ハチワレ(CV.田中誠人) 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "604748203",
+      "name": "夜の踊り子",
+      "artist": "サカナクション",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/9b/bb/609bbb5d-96eb-ae16-f08a-81a3223deb24/VICL-63999.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AE%E8%B8%8A%E3%82%8A%E5%AD%90/604748196?i=604748203&uo=2",
+      "releaseDate": "2013-03-13T05:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-08-16T01:10:58.509Z",
+      "insight": {
+        "歌手簡介": "サカナクション 是這次登上 iTunes 日本單曲榜的藝人，以《夜の踊り子》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《夜の踊り子》於 2013/3/13 發行，屬於 ロック 曲風，是 サカナクション 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6788211810",
       "name": "Brand New",
       "artist": "Mrs. GREEN APPLE",
