@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "6791120691",
+      "name": "セツナハナビ (Setsuna Hanabi)",
+      "artist": "TOMORROW X TOGETHER",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/db/3d/c5db3d19-6c35-e39d-261b-38b11acc8012/26UMGIM87034.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%82%BB%E3%83%84%E3%83%8A%E3%83%8F%E3%83%8A%E3%83%93-setsuna-hanabi/6791120690?i=6791120691&uo=2",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-08-17T01:08:34.752Z",
+      "insight": {
+        "歌手簡介": "TOMORROW X TOGETHER 是這次登上 iTunes 日本單曲榜的藝人，以《セツナハナビ (Setsuna Hanabi)》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《セツナハナビ (Setsuna Hanabi)》屬於 K-Pop 曲風，是 TOMORROW X TOGETHER 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6797427650",
+      "name": "FIRE BEAT (15th ver.)",
+      "artist": "Kis-My-Ft2",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/a5/cc/fba5ccf5-979e-c846-5735-02060406da29/ANTCD-A0000020783.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/fire-beat-15th-ver/6797427649?i=6797427650&uo=2",
+      "releaseDate": "2026-08-10T05:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-08-17T01:08:34.752Z",
+      "insight": {
+        "歌手簡介": "Kis-My-Ft2 是這次登上 iTunes 日本單曲榜的藝人，以《FIRE BEAT (15th ver.)》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《FIRE BEAT (15th ver.)》於 2026/8/10 發行，屬於 J-Pop 曲風，是 Kis-My-Ft2 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6781198668",
+      "name": "なんもねえ",
+      "artist": "忘れらんねえよ",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/28/00/6e280007-5f1f-388e-4041-e593d43d1297/4988021077361.png/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%81%AA%E3%82%93%E3%82%82%E3%81%AD%E3%81%88/6781198667?i=6781198668&uo=2",
+      "releaseDate": "2026-07-02T05:00:00-07:00",
+      "genre": "アニメ",
+      "recommendedAt": "2026-08-17T01:08:34.752Z",
+      "insight": {
+        "歌手簡介": "忘れらんねえよ 是這次登上 iTunes 日本單曲榜的藝人，以《なんもねえ》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《なんもねえ》於 2026/7/2 發行，屬於 アニメ 曲風，是 忘れらんねえよ 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6793766061",
       "name": "邂逅",
       "artist": "福山 雅治",
