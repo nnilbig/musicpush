@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "6799816953",
+      "name": "KO1KEYZ",
+      "artist": "KO1KEYZ",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/bd/90/66bd90df-154f-aefb-dadf-589668a72c63/26UM1IM00248.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/ko1keyz/6799816951?i=6799816953&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-08-18T01:06:51.222Z",
+      "insight": {
+        "歌手簡介": "KO1KEYZ 是這次登上 iTunes 日本單曲榜的藝人，以《KO1KEYZ》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《KO1KEYZ》屬於 J-Pop 曲風，是 KO1KEYZ 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6792291237",
+      "name": "島のうた (セイレーンver.)",
+      "artist": "セイレーン(CV.鈴木みのり), 人魚(CV.大木咲絵子) & 人魚(CV.七瀬彩夏)",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/76/29/24762904-117f-098f-79f7-f9d5f451fec9/4550758739203_cover.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E5%B3%B6%E3%81%AE%E3%81%86%E3%81%9F-%E3%82%BB%E3%82%A4%E3%83%AC%E3%83%BC%E3%83%B3ver/6792290933?i=6792291237&uo=2",
+      "releaseDate": "2026-07-25T05:00:00-07:00",
+      "genre": "アニメ",
+      "recommendedAt": "2026-08-18T01:06:51.222Z",
+      "insight": {
+        "歌手簡介": "セイレーン(CV.鈴木みのり), 人魚(CV.大木咲絵子) & 人魚(CV.七瀬彩夏) 是這次登上 iTunes 日本單曲榜的藝人，以《島のうた (セイレーンver.)》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《島のうた (セイレーンver.)》於 2026/7/25 發行，屬於 アニメ 曲風，是 セイレーン(CV.鈴木みのり), 人魚(CV.大木咲絵子) & 人魚(CV.七瀬彩夏) 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "1894837345",
+      "name": "It's Me",
+      "artist": "ILLIT",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/76/26/cc76262a-dc2e-0746-ed85-070a56d23d40/26UMGIM46377.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/its-me/1894837142?i=1894837345&uo=2",
+      "releaseDate": "2026-04-30T05:00:00-07:00",
+      "genre": "ポップ",
+      "recommendedAt": "2026-08-18T01:06:51.222Z",
+      "insight": {
+        "歌手簡介": "ILLIT 是這次登上 iTunes 日本單曲榜的藝人，以《It's Me》這首 ポップ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《It's Me》於 2026/4/30 發行，屬於 ポップ 曲風，是 ILLIT 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6791120691",
       "name": "セツナハナビ (Setsuna Hanabi)",
       "artist": "TOMORROW X TOGETHER",
