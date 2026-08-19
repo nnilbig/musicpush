@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "6796691597",
+      "name": "PINKY.になろうよ!2026",
+      "artist": "IMP.",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/47/b7/3d/47b73d91-fbb9-e6e1-f1b2-ec1df8703015/4570199893968.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/pinky-%E3%81%AB%E3%81%AA%E3%82%8D%E3%81%86%E3%82%88-2026/6796691595?i=6796691597&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-08-19T01:07:42.358Z",
+      "insight": {
+        "歌手簡介": "IMP. 是這次登上 iTunes 日本單曲榜的藝人，以《PINKY.になろうよ!2026》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《PINKY.になろうよ!2026》屬於 J-Pop 曲風，是 IMP. 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6800610080",
+      "name": "Boom Boom Boom",
+      "artist": "BOYNEXTDOOR",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/b3/b1/1cb3b1a3-3d2f-2ab2-24b7-51e7f535987e/26UM1IM02987.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/boom-boom-boom/6800610076?i=6800610080&uo=2",
+      "releaseDate": "2026-08-18T00:00:00-07:00",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-08-19T01:07:42.358Z",
+      "insight": {
+        "歌手簡介": "BOYNEXTDOOR 是這次登上 iTunes 日本單曲榜的藝人，以《Boom Boom Boom》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Boom Boom Boom》於 2026/8/18 發行，屬於 K-Pop 曲風，是 BOYNEXTDOOR 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6798089804",
+      "name": "「ねえ、言っちゃうよ。」",
+      "artist": "初星学園",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/05/ef/18/05ef18ab-abea-f616-b0dc-f58ef5fda4e4/PA00224461_0_251447_jacket.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%81%AD%E3%81%88-%E8%A8%80%E3%81%A3%E3%81%A1%E3%82%83%E3%81%86%E3%82%88/6798089801?i=6798089804&uo=2",
+      "releaseDate": "2026-08-17T05:00:00-07:00",
+      "genre": "アニメ",
+      "recommendedAt": "2026-08-19T01:07:42.358Z",
+      "insight": {
+        "歌手簡介": "初星学園 是這次登上 iTunes 日本單曲榜的藝人，以《「ねえ、言っちゃうよ。」》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《「ねえ、言っちゃうよ。」》於 2026/8/17 發行，屬於 アニメ 曲風，是 初星学園 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6799816953",
       "name": "KO1KEYZ",
       "artist": "KO1KEYZ",
