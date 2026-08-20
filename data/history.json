@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "6802584716",
+      "name": "BiiiG",
+      "artist": "BIGBANG",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/f6/a5/4bf6a51c-7fae-5304-a005-56d33b2e2789/ANTCD-A0000020915.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/biiig/6802584715?i=6802584716&uo=2",
+      "releaseDate": "2026-08-19T00:00:00-07:00",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-08-20T01:06:52.507Z",
+      "insight": {
+        "歌手簡介": "BIGBANG 是這次登上 iTunes 日本單曲榜的藝人，以《BiiiG》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《BiiiG》於 2026/8/19 發行，屬於 K-Pop 曲風，是 BIGBANG 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6798193427",
+      "name": "Livin' On A Prayer",
+      "artist": "優里",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/4d/73/fe4d73bb-b974-4cac-d753-1f70bac844b7/4547366843965.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/livin-on-a-prayer/6798193426?i=6798193427&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-08-20T01:06:52.507Z",
+      "insight": {
+        "歌手簡介": "優里 是這次登上 iTunes 日本單曲榜的藝人，以《Livin' On A Prayer》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Livin' On A Prayer》屬於 ロック 曲風，是 優里 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6795837497",
+      "name": "ガラスの十代",
+      "artist": "光GENJI",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/e5/be/dfe5be29-6973-ffd4-88ae-fcaa45f1e737/28353.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%82%AC%E3%83%A9%E3%82%B9%E3%81%AE%E5%8D%81%E4%BB%A3/6795836731?i=6795837497&uo=2",
+      "releaseDate": "1995-08-19T05:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-08-20T01:06:52.507Z",
+      "insight": {
+        "歌手簡介": "光GENJI 是這次登上 iTunes 日本單曲榜的藝人，以《ガラスの十代》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《ガラスの十代》於 1995/8/19 發行，屬於 J-Pop 曲風，是 光GENJI 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6796691597",
       "name": "PINKY.になろうよ!2026",
       "artist": "IMP.",
