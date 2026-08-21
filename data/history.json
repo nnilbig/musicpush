@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "6798913384",
+      "name": "Tonight",
+      "artist": "ジェジュン",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/46/80/19468049-11af-e6d4-454b-37361ac17db2/1200214791568.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/tonight/6798913378?i=6798913384&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-08-21T01:10:37.126Z",
+      "insight": {
+        "歌手簡介": "ジェジュン 是這次登上 iTunes 日本單曲榜的藝人，以《Tonight》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Tonight》屬於 ロック 曲風，是 ジェジュン 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6802982541",
+      "name": "フライデーマジック",
+      "artist": "Crazy Raccoon, nqrse, yuigot, じゃすぱー, VanilLa & うぶごえ",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/ae/7c/51ae7cfa-35ac-d8f5-a725-04a2d54a8e47/PA00225716_0_252562_jacket.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%83%95%E3%83%A9%E3%82%A4%E3%83%87%E3%83%BC%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF/6802982534?i=6802982541&uo=2",
+      "releaseDate": "2026-08-20T00:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-08-21T01:10:37.126Z",
+      "insight": {
+        "歌手簡介": "Crazy Raccoon, nqrse, yuigot, じゃすぱー, VanilLa & うぶごえ 是這次登上 iTunes 日本單曲榜的藝人，以《フライデーマジック》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《フライデーマジック》於 2026/8/20 發行，屬於 J-Pop 曲風，是 Crazy Raccoon, nqrse, yuigot, じゃすぱー, VanilLa & うぶごえ 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6799031695",
+      "name": "Running Wheel",
+      "artist": "Creepy Nuts",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/a4/88/f8a48807-811a-7cac-e8ff-cc3b970f7bf9/4547366842968.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/running-wheel/6799031694?i=6799031695&uo=2",
+      "releaseDate": "2026-08-19T05:00:00-07:00",
+      "genre": "ヒップホップ／ラップ",
+      "recommendedAt": "2026-08-21T01:10:37.126Z",
+      "insight": {
+        "歌手簡介": "Creepy Nuts 是這次登上 iTunes 日本單曲榜的藝人，以《Running Wheel》這首 ヒップホップ／ラップ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Running Wheel》於 2026/8/19 發行，屬於 ヒップホップ／ラップ 曲風，是 Creepy Nuts 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6802584716",
       "name": "BiiiG",
       "artist": "BIGBANG",
