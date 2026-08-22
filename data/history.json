@@ -1,6 +1,45 @@
 {
   "entries": [
     {
+      "id": "6802622768",
+      "name": "Bloody Paradise",
+      "artist": "ENHYPEN",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/25/e3/be25e373-c70c-f452-cd8f-3a024d129670/26UM1IM03683.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/bloody-paradise/6802622750?i=6802622768&uo=2",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-08-22T01:07:06.641Z",
+      "insight": {
+        "歌手簡介": "ENHYPEN 是這次登上 iTunes 日本單曲榜的藝人，以《Bloody Paradise》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Bloody Paradise》屬於 K-Pop 曲風，是 ENHYPEN 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6794217199",
+      "name": "鳥",
+      "artist": "高橋優",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/0c/e9/1d0ce9d5-8051-dea7-7163-b4bb236ec631/1200214622008.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E9%B3%A5/6794217198?i=6794217199&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-08-22T01:07:06.641Z",
+      "insight": {
+        "歌手簡介": "高橋優 是這次登上 iTunes 日本單曲榜的藝人，以《鳥》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《鳥》屬於 J-Pop 曲風，是 高橋優 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6799055562",
+      "name": "L’Espoir",
+      "artist": "初星学園 & 有村麻央",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/be/19/d3be19c0-123f-89a2-1607-cbcff30e9234/PA00225008_0_251892_jacket.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/lespoir/6799055559?i=6799055562&uo=2",
+      "genre": "アニメ",
+      "recommendedAt": "2026-08-22T01:07:06.641Z",
+      "insight": {
+        "歌手簡介": "初星学園 & 有村麻央 是這次登上 iTunes 日本單曲榜的藝人，以《L’Espoir》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《L’Espoir》屬於 アニメ 曲風，是 初星学園 & 有村麻央 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6798913384",
       "name": "Tonight",
       "artist": "ジェジュン",
