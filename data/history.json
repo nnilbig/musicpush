@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "1846753946",
+      "name": "好きすぎて滅!",
+      "artist": "M!LK",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/f9/1b/d4f91bfd-6176-4733-113f-b72f6095d5df/VEATP-44481.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E5%A5%BD%E3%81%8D%E3%81%99%E3%81%8E%E3%81%A6%E6%BB%85/1846753945?i=1846753946&uo=2",
+      "releaseDate": "2025-10-27T05:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-08-23T01:11:55.779Z",
+      "insight": {
+        "歌手簡介": "M!LK 是這次登上 iTunes 日本單曲榜的藝人，以《好きすぎて滅!》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《好きすぎて滅!》於 2025/10/27 發行，屬於 J-Pop 曲風，是 M!LK 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6799055327",
+      "name": "重なる夜空の痕跡に",
+      "artist": "初星学園 & 姫崎莉波",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/cf/2c/adcf2c75-bc62-afea-cb1e-8bf9472a8a25/PA00225011_0_251889_jacket.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E9%87%8D%E3%81%AA%E3%82%8B%E5%A4%9C%E7%A9%BA%E3%81%AE%E7%97%95%E8%B7%A1%E3%81%AB/6799055321?i=6799055327&uo=2",
+      "genre": "アニメ",
+      "recommendedAt": "2026-08-23T01:11:55.779Z",
+      "insight": {
+        "歌手簡介": "初星学園 & 姫崎莉波 是這次登上 iTunes 日本單曲榜的藝人，以《重なる夜空の痕跡に》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《重なる夜空の痕跡に》屬於 アニメ 曲風，是 初星学園 & 姫崎莉波 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6787836341",
+      "name": "かげろう",
+      "artist": "Vaundy",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/71/f8/0b71f8e1-532f-968d-16dd-533ad29eda44/4547366836653.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%81%8B%E3%81%92%E3%82%8D%E3%81%86/6787836340?i=6787836341&uo=2",
+      "releaseDate": "2026-07-15T05:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-08-23T01:11:55.779Z",
+      "insight": {
+        "歌手簡介": "Vaundy 是這次登上 iTunes 日本單曲榜的藝人，以《かげろう》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《かげろう》於 2026/7/15 發行，屬於 ロック 曲風，是 Vaundy 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6802622768",
       "name": "Bloody Paradise",
       "artist": "ENHYPEN",
