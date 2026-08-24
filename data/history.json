@@ -1,6 +1,46 @@
 {
   "entries": [
     {
+      "id": "6802879421",
+      "name": "マドラー",
+      "artist": "Snow Man",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/0a/6e/ab0a6ec4-38a9-d18a-109b-f67758daf7cb/ANTCD-A0000020952.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%83%9E%E3%83%89%E3%83%A9%E3%83%BC/6802879262?i=6802879421&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-08-24T01:09:57.051Z",
+      "insight": {
+        "歌手簡介": "Snow Man 是這次登上 iTunes 日本單曲榜的藝人，以《マドラー》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《マドラー》屬於 J-Pop 曲風，是 Snow Man 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6792293577",
+      "name": "うさぎラップ (リズム感のある者たちver.)",
+      "artist": "うさぎ(CV.小澤亜李), モモンガ(CV.井口裕香), 人魚(CV.大木咲絵子) & 人魚(CV.七瀬彩夏)",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/1b/6d/a81b6d69-21ea-6bfa-c56e-4473246db5fe/4550758740391_cover.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%81%86%E3%81%95%E3%81%8E%E3%83%A9%E3%83%83%E3%83%97-%E3%83%AA%E3%82%BA%E3%83%A0%E6%84%9F%E3%81%AE%E3%81%82%E3%82%8B%E8%80%85%E3%81%9F%E3%81%A1ver/6792293464?i=6792293577&uo=2",
+      "releaseDate": "2026-07-25T05:00:00-07:00",
+      "genre": "アニメ",
+      "recommendedAt": "2026-08-24T01:09:57.051Z",
+      "insight": {
+        "歌手簡介": "うさぎ(CV.小澤亜李), モモンガ(CV.井口裕香), 人魚(CV.大木咲絵子) & 人魚(CV.七瀬彩夏) 是這次登上 iTunes 日本單曲榜的藝人，以《うさぎラップ (リズム感のある者たちver.)》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《うさぎラップ (リズム感のある者たちver.)》於 2026/7/25 發行，屬於 アニメ 曲風，是 うさぎ(CV.小澤亜李), モモンガ(CV.井口裕香), 人魚(CV.大木咲絵子) & 人魚(CV.七瀬彩夏) 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6803009854",
+      "name": "DAYBREAK (Cover)",
+      "artist": "Rockon Social Club",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/d3/28/79d3282c-6431-aaf0-c47a-19b347a6b5cc/4550759784738_cover.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/daybreak-cover/6803009851?i=6803009854&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-08-24T01:09:57.051Z",
+      "insight": {
+        "歌手簡介": "Rockon Social Club 是這次登上 iTunes 日本單曲榜的藝人，以《DAYBREAK (Cover)》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《DAYBREAK (Cover)》屬於 ロック 曲風，是 Rockon Social Club 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "1846753946",
       "name": "好きすぎて滅!",
       "artist": "M!LK",
