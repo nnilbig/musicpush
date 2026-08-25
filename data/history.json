@@ -1,6 +1,46 @@
 {
   "entries": [
     {
+      "id": "6802879419",
+      "name": "GO HARD",
+      "artist": "Snow Man",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/0a/6e/ab0a6ec4-38a9-d18a-109b-f67758daf7cb/ANTCD-A0000020952.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/go-hard/6802879262?i=6802879419&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-08-25T01:08:34.837Z",
+      "insight": {
+        "歌手簡介": "Snow Man 是這次登上 iTunes 日本單曲榜的藝人，以《GO HARD》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《GO HARD》屬於 J-Pop 曲風，是 Snow Man 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6796242509",
+      "name": "BORN DIRE",
+      "artist": "ALPHA DRIVE ONE",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ec/ea/48/ecea48e7-ab97-069e-cb06-e5c318bd2bf8/888272185416.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/born-dire/6796242508?i=6796242509&uo=2",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-08-25T01:08:34.837Z",
+      "insight": {
+        "歌手簡介": "ALPHA DRIVE ONE 是這次登上 iTunes 日本單曲榜的藝人，以《BORN DIRE》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《BORN DIRE》屬於 K-Pop 曲風，是 ALPHA DRIVE ONE 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6792291444",
+      "name": "うさぎラップ (ソロver.)",
+      "artist": "うさぎ(CV.小澤亜李), 人魚(CV.大木咲絵子) & 人魚(CV.七瀬彩夏)",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/76/29/24762904-117f-098f-79f7-f9d5f451fec9/4550758739203_cover.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%81%86%E3%81%95%E3%81%8E%E3%83%A9%E3%83%83%E3%83%97-%E3%82%BD%E3%83%ADver/6792290933?i=6792291444&uo=2",
+      "releaseDate": "2026-07-25T05:00:00-07:00",
+      "genre": "アニメ",
+      "recommendedAt": "2026-08-25T01:08:34.837Z",
+      "insight": {
+        "歌手簡介": "うさぎ(CV.小澤亜李), 人魚(CV.大木咲絵子) & 人魚(CV.七瀬彩夏) 是這次登上 iTunes 日本單曲榜的藝人，以《うさぎラップ (ソロver.)》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《うさぎラップ (ソロver.)》於 2026/7/25 發行，屬於 アニメ 曲風，是 うさぎ(CV.小澤亜李), 人魚(CV.大木咲絵子) & 人魚(CV.七瀬彩夏) 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6802879421",
       "name": "マドラー",
       "artist": "Snow Man",
