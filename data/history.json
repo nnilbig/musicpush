@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "6801361853",
+      "name": "灰色",
+      "artist": "大森元貴",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/58/16/7b581688-53c3-6e18-120e-c855a70c2daf/26UM1IM01960.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E7%81%B0%E8%89%B2/6801361848?i=6801361853&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-08-26T01:11:00.831Z",
+      "insight": {
+        "歌手簡介": "大森元貴 是這次登上 iTunes 日本單曲榜的藝人，以《灰色》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《灰色》屬於 ロック 曲風，是 大森元貴 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6802879422",
+      "name": "show time...",
+      "artist": "Snow Man",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/0a/6e/ab0a6ec4-38a9-d18a-109b-f67758daf7cb/ANTCD-A0000020952.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/show-time/6802879262?i=6802879422&uo=2",
+      "releaseDate": "2026-08-24T05:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-08-26T01:11:00.831Z",
+      "insight": {
+        "歌手簡介": "Snow Man 是這次登上 iTunes 日本單曲榜的藝人，以《show time...》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《show time...》於 2026/8/24 發行，屬於 J-Pop 曲風，是 Snow Man 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "1838717103",
+      "name": "私はピアノ",
+      "artist": "高田みづえ",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/23/5f/42235f78-a10a-8332-52e4-0fcc694fb757/cover.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E7%A7%81%E3%81%AF%E3%83%94%E3%82%A2%E3%83%8E/1838717081?i=1838717103&uo=2",
+      "releaseDate": "1978-01-01T04:00:00-07:00",
+      "genre": "歌謡曲",
+      "recommendedAt": "2026-08-26T01:11:00.831Z",
+      "insight": {
+        "歌手簡介": "高田みづえ 是這次登上 iTunes 日本單曲榜的藝人，以《私はピアノ》這首 歌謡曲 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《私はピアノ》於 1978/1/1 發行，屬於 歌謡曲 曲風，是 高田みづえ 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6802879419",
       "name": "GO HARD",
       "artist": "Snow Man",
