@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "id": "6802879414",
+      "name": "ALL SUITE",
+      "artist": "Snow Man",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/0a/6e/ab0a6ec4-38a9-d18a-109b-f67758daf7cb/ANTCD-A0000020952.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/all-suite/6802879262?i=6802879414&uo=2",
+      "releaseDate": "2026-08-24T05:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-08-27T07:21:23.162Z",
+      "insight": {
+        "歌手簡介": "Snow Man 是這次登上 iTunes 日本單曲榜的藝人，以《ALL SUITE》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《ALL SUITE》於 2026/8/24 發行，屬於 J-Pop 曲風，是 Snow Man 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6803830770",
+      "name": "ただ風を追いかけて",
+      "artist": "ロビン, HOYO-MiX & Chevy",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/b6/b5/f7b6b532-4aee-6892-43ca-654ac66ae52d/cover.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%81%9F%E3%81%A0%E9%A2%A8%E3%82%92%E8%BF%BD%E3%81%84%E3%81%8B%E3%81%91%E3%81%A6/6803830767?i=6803830770&uo=2",
+      "releaseDate": "2026-08-26T05:00:00-07:00",
+      "genre": "ポップ",
+      "recommendedAt": "2026-08-27T07:21:23.162Z",
+      "insight": {
+        "歌手簡介": "ロビン, HOYO-MiX & Chevy 是這次登上 iTunes 日本單曲榜的藝人，以《ただ風を追いかけて》這首 ポップ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《ただ風を追いかけて》於 2026/8/26 發行，屬於 ポップ 曲風，是 ロビン, HOYO-MiX & Chevy 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6797428176",
+      "name": "LOOK AT ME NOW!",
+      "artist": "n.SSign",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/63/ea/a663ea87-31bd-f59b-a292-66dc747c2a1b/VEATP-45852.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/look-at-me-now/6797428175?i=6797428176&uo=2",
+      "releaseDate": "2026-08-26T05:00:00-07:00",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-08-27T07:21:23.162Z",
+      "insight": {
+        "歌手簡介": "n.SSign 是這次登上 iTunes 日本單曲榜的藝人，以《LOOK AT ME NOW!》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《LOOK AT ME NOW!》於 2026/8/26 發行，屬於 K-Pop 曲風，是 n.SSign 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6801361853",
       "name": "灰色",
       "artist": "大森元貴",
