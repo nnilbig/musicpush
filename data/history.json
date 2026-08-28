@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "6802136204",
+      "name": "彼方",
+      "artist": "FictionJunction",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/2e/01/f22e01f7-39fd-dc05-88a1-60b130423dc7/4547366845822.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E5%BD%BC%E6%96%B9/6802136203?i=6802136204&uo=2",
+      "genre": "アニメ",
+      "recommendedAt": "2026-08-28T09:36:05.514Z",
+      "insight": {
+        "歌手簡介": "FictionJunction 是這次登上 iTunes 日本單曲榜的藝人，以《彼方》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《彼方》屬於 アニメ 曲風，是 FictionJunction 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6796579286",
+      "name": "螺旋 - RASEN - Acoustic Ver. -",
+      "artist": "9Lana",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/07/ee/ce07ee25-a532-a2af-3105-c7b1b8fba812/4547366844702.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E8%9E%BA%E6%97%8B-rasen-acoustic-ver/6796579285?i=6796579286&uo=2",
+      "releaseDate": "2026-08-23T05:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-08-28T09:36:05.514Z",
+      "insight": {
+        "歌手簡介": "9Lana 是這次登上 iTunes 日本單曲榜的藝人，以《螺旋 - RASEN - Acoustic Ver. -》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《螺旋 - RASEN - Acoustic Ver. -》於 2026/8/23 發行，屬於 J-Pop 曲風，是 9Lana 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6784050734",
+      "name": "This Is Halloween",
+      "artist": "梅原裕一郎, 二葉 要, 石谷春貴, 花江夏樹, 鈴木崚汰, 駒田 航 & 内山昂輝",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/69/9e/87699e95-94fd-218e-9467-f11826f9b37c/26UMGIM79511.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/this-is-halloween/6784050459?i=6784050734&uo=2",
+      "releaseDate": "2026-08-26T05:00:00-07:00",
+      "genre": "サウンドトラック",
+      "recommendedAt": "2026-08-28T09:36:05.514Z",
+      "insight": {
+        "歌手簡介": "梅原裕一郎, 二葉 要, 石谷春貴, 花江夏樹, 鈴木崚汰, 駒田 航 & 内山昂輝 是這次登上 iTunes 日本單曲榜的藝人，以《This Is Halloween》這首 サウンドトラック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《This Is Halloween》於 2026/8/26 發行，屬於 サウンドトラック 曲風，是 梅原裕一郎, 二葉 要, 石谷春貴, 花江夏樹, 鈴木崚汰, 駒田 航 & 内山昂輝 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6802879414",
       "name": "ALL SUITE",
       "artist": "Snow Man",
