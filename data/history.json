@@ -1,6 +1,45 @@
 {
   "entries": [
     {
+      "id": "6797407954",
+      "name": "So Honey",
+      "artist": "King & Prince",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/50/a3/7350a348-e6eb-fed3-a053-7bd70ac4860f/26UM1IM00708.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/so-honey/6797407951?i=6797407954&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-08-31T03:43:06.730Z",
+      "insight": {
+        "歌手簡介": "King & Prince 是這次登上 iTunes 日本單曲榜的藝人，以《So Honey》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《So Honey》屬於 J-Pop 曲風，是 King & Prince 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6805470630",
+      "name": "Midnight Train (Cover)",
+      "artist": "Rockon Social Club",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/c5/57/58c557f2-d139-c585-e840-0bdfa4844c8e/4550759975457_cover.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/midnight-train-cover/6805470620?i=6805470630&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-08-31T03:43:06.730Z",
+      "insight": {
+        "歌手簡介": "Rockon Social Club 是這次登上 iTunes 日本單曲榜的藝人，以《Midnight Train (Cover)》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Midnight Train (Cover)》屬於 ロック 曲風，是 Rockon Social Club 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6793791856",
+      "name": "Ritornello",
+      "artist": "ŹOOĻ",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/03/b7/cf03b731-a96e-1426-d0ad-324e1fd0c314/4540774749140.png/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/ritornello/6793791854?i=6793791856&uo=2",
+      "genre": "アニメ",
+      "recommendedAt": "2026-08-31T03:43:06.730Z",
+      "insight": {
+        "歌手簡介": "ŹOOĻ 是這次登上 iTunes 日本單曲榜的藝人，以《Ritornello》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Ritornello》屬於 アニメ 曲風，是 ŹOOĻ 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6804558567",
       "name": "Prime Time Golden Hour Show (Soundtrack)",
       "artist": "佐々木詩織, アトラスサウンドチーム & ATLUS GAME MUSIC",
