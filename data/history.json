@@ -1,6 +1,46 @@
 {
   "entries": [
     {
+      "id": "6800641889",
+      "name": "GUM & DROP",
+      "artist": "星街すいせい",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/25/8c/70258cd8-92c8-1640-615a-afd3c9542f06/4547366834413.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/gum-drop/6800641659?i=6800641889&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-09-01T03:37:37.281Z",
+      "insight": {
+        "歌手簡介": "星街すいせい 是這次登上 iTunes 日本單曲榜的藝人，以《GUM & DROP》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《GUM & DROP》屬於 J-Pop 曲風，是 星街すいせい 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6802148745",
+      "name": "リキッド・アイス(『名探偵プリキュア!』後期キャラクターソング先行配信)",
+      "artist": "キュアアルカナ(CV:東山奈央)、名探偵プリキュア!",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/20/d5/0b20d57d-2b86-a885-3581-396143c91196/MAQLT-00636.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89-%E3%82%A2%E3%82%A4%E3%82%B9-%E5%90%8D%E6%8E%A2%E5%81%B5%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2-%E5%BE%8C%E6%9C%9F%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%B3%E3%82%B0%E5%85%88%E8%A1%8C%E9%85%8D%E4%BF%A1/6802148743?i=6802148745&uo=2",
+      "genre": "アニメ",
+      "recommendedAt": "2026-09-01T03:37:37.281Z",
+      "insight": {
+        "歌手簡介": "キュアアルカナ(CV:東山奈央)、名探偵プリキュア! 是這次登上 iTunes 日本單曲榜的藝人，以《リキッド・アイス(『名探偵プリキュア!』後期キャラクターソング先行配信)》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《リキッド・アイス(『名探偵プリキュア!』後期キャラクターソング先行配信)》屬於 アニメ 曲風，是 キュアアルカナ(CV:東山奈央)、名探偵プリキュア! 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "1445123113",
+      "name": "若者のすべて",
+      "artist": "フジファブリック",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/9a/71/9c9a7162-ced4-73fe-fd49-0ff49adfe6f8/16UMGIM24346.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E8%8B%A5%E8%80%85%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6/1445122840?i=1445123113&uo=2",
+      "releaseDate": "2004-11-15T04:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-09-01T03:37:37.281Z",
+      "insight": {
+        "歌手簡介": "フジファブリック 是這次登上 iTunes 日本單曲榜的藝人，以《若者のすべて》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《若者のすべて》於 2004/11/15 發行，屬於 ロック 曲風，是 フジファブリック 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6797407954",
       "name": "So Honey",
       "artist": "King & Prince",
