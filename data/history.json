@@ -1,6 +1,45 @@
 {
   "entries": [
     {
+      "id": "6805057546",
+      "name": "Slow It Down",
+      "artist": "Felix",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/eb/75/86eb753d-8421-c240-5a58-3990d309853b/8809928956787.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/slow-it-down/6805057545?i=6805057546&uo=2",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-09-02T02:55:47.354Z",
+      "insight": {
+        "歌手簡介": "Felix 是這次登上 iTunes 日本單曲榜的藝人，以《Slow It Down》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Slow It Down》屬於 K-Pop 曲風，是 Felix 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6801485188",
+      "name": "イチャイチャ虫",
+      "artist": "日向坂46",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/e1/b4/51e1b4b6-b09a-f250-f2a4-232589449f33/4547366846188.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%82%A4%E3%83%81%E3%83%A3%E3%82%A4%E3%83%81%E3%83%A3%E8%99%AB/6801485187?i=6801485188&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-09-02T02:55:47.354Z",
+      "insight": {
+        "歌手簡介": "日向坂46 是這次登上 iTunes 日本單曲榜的藝人，以《イチャイチャ虫》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《イチャイチャ虫》屬於 J-Pop 曲風，是 日向坂46 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6806190253",
+      "name": "Home",
+      "artist": "YEONJUN",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/4d/f3/a34df3df-40ba-3245-b131-38a81034981c/888272187489_Cover.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/home/6806190252?i=6806190253&uo=2",
+      "genre": "R&B／ソウル",
+      "recommendedAt": "2026-09-02T02:55:47.354Z",
+      "insight": {
+        "歌手簡介": "YEONJUN 是這次登上 iTunes 日本單曲榜的藝人，以《Home》這首 R&B／ソウル 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Home》屬於 R&B／ソウル 曲風，是 YEONJUN 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6800641889",
       "name": "GUM & DROP",
       "artist": "星街すいせい",
