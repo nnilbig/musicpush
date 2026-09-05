@@ -1,6 +1,46 @@
 {
   "entries": [
     {
+      "id": "6806439860",
+      "name": "OUTWEST",
+      "artist": "TEN",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/1b/36/081b36df-88c2-b090-c650-e24b4c9df334/00823375407591_Cover.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/outwest/6806439847?i=6806439860&uo=2",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-09-05T02:59:46.338Z",
+      "insight": {
+        "歌手簡介": "TEN 是這次登上 iTunes 日本單曲榜的藝人，以《OUTWEST》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《OUTWEST》屬於 K-Pop 曲風，是 TEN 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6803387777",
+      "name": "ポケモンオールスターズ1025",
+      "artist": "オーイシマサヨシ",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/1d/a1/e01da1ee-2831-13da-9d37-bcf5ebca9710/28504.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA1025/6803387775?i=6803387777&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-09-05T02:59:46.338Z",
+      "insight": {
+        "歌手簡介": "オーイシマサヨシ 是這次登上 iTunes 日本單曲榜的藝人，以《ポケモンオールスターズ1025》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《ポケモンオールスターズ1025》屬於 J-Pop 曲風，是 オーイシマサヨシ 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6776482882",
+      "name": "777 (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
+      "artist": "YAO",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/77/29/23772906-4f49-00e1-175d-d342021ea40a/4550757299845_cover.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/777-feat-awich-chico-carlito-one-ok-rock-paledusk/6776482572?i=6776482882&uo=2",
+      "releaseDate": "2026-07-07T05:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-09-05T02:59:46.338Z",
+      "insight": {
+        "歌手簡介": "YAO 是這次登上 iTunes 日本單曲榜的藝人，以《777 (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《777 (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)》於 2026/7/7 發行，屬於 ロック 曲風，是 YAO 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6803148739",
       "name": "ありふれた世界の果てに (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
       "artist": "YAO",
