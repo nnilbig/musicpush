@@ -1,6 +1,45 @@
 {
   "entries": [
     {
+      "id": "6806106478",
+      "name": "好きでいて",
+      "artist": "Ado",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/a8/4a/c1a84a2e-3bf3-084a-9f6b-f5ee8e058a9a/26UMGIM41445.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%84%E3%81%A6/6806106475?i=6806106478&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-09-08T03:07:04.883Z",
+      "insight": {
+        "歌手簡介": "Ado 是這次登上 iTunes 日本單曲榜的藝人，以《好きでいて》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《好きでいて》屬於 J-Pop 曲風，是 Ado 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6804959495",
+      "name": "MISMATCH",
+      "artist": "LEE JISOO",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/03/0e/87030e69-c416-ca20-7dc8-619f5835a146/4547366848298.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/mismatch/6804959494?i=6804959495&uo=2",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-09-08T03:07:04.883Z",
+      "insight": {
+        "歌手簡介": "LEE JISOO 是這次登上 iTunes 日本單曲榜的藝人，以《MISMATCH》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《MISMATCH》屬於 K-Pop 曲風，是 LEE JISOO 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6806126698",
+      "name": "ORDER FAKE",
+      "artist": "初星学園 & 月村手毬",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/03/e1/c203e18a-cda5-f4c3-a011-a0d5545e7a1f/PA00226556_0_253044_jacket.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/order-fake/6806126696?i=6806126698&uo=2",
+      "genre": "アニメ",
+      "recommendedAt": "2026-09-08T03:07:04.883Z",
+      "insight": {
+        "歌手簡介": "初星学園 & 月村手毬 是這次登上 iTunes 日本單曲榜的藝人，以《ORDER FAKE》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《ORDER FAKE》屬於 アニメ 曲風，是 初星学園 & 月村手毬 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6803798494",
       "name": "時空超えてユニバース",
       "artist": "M!LK",
