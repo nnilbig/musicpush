@@ -1,6 +1,45 @@
 {
   "entries": [
     {
+      "id": "6797375186",
+      "name": "IGNITE",
+      "artist": "JO1",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/97/88/8e97883f-a1c7-4ac8-3982-de71a9988f2c/4582109079195.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/ignite/6797375185?i=6797375186&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-09-09T03:08:39.893Z",
+      "insight": {
+        "歌手簡介": "JO1 是這次登上 iTunes 日本單曲榜的藝人，以《IGNITE》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《IGNITE》屬於 J-Pop 曲風，是 JO1 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6804650810",
+      "name": "LTL",
+      "artist": "ShowMinorSavage & SALU",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/11/b6/0311b683-82c8-9971-4e26-e1f7cf1893eb/ANTCD-75547.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/ltl/6804650807?i=6804650810&uo=2",
+      "genre": "R&B／ソウル",
+      "recommendedAt": "2026-09-09T03:08:39.893Z",
+      "insight": {
+        "歌手簡介": "ShowMinorSavage & SALU 是這次登上 iTunes 日本單曲榜的藝人，以《LTL》這首 R&B／ソウル 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《LTL》屬於 R&B／ソウル 曲風，是 ShowMinorSavage & SALU 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6806202391",
+      "name": "Mark on Me",
+      "artist": "&TEAM",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/74/62/18746282-cb01-153e-df50-ec283cf07f0f/26UM1IM07694.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/mark-on-me/6806202377?i=6806202391&uo=2",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-09-09T03:08:39.893Z",
+      "insight": {
+        "歌手簡介": "&TEAM 是這次登上 iTunes 日本單曲榜的藝人，以《Mark on Me》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Mark on Me》屬於 K-Pop 曲風，是 &TEAM 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6806106478",
       "name": "好きでいて",
       "artist": "Ado",
