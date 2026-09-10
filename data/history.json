@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "6808172958",
+      "name": "Brand New",
+      "artist": "Mrs. GREEN APPLE",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/84/7d/79847db9-b0bb-7ef9-9cdb-8b39f3e99f6e/26UM1IM13923.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/brand-new/6808172946?i=6808172958&uo=2",
+      "releaseDate": "2026-07-13T05:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-09-10T03:08:40.736Z",
+      "insight": {
+        "歌手簡介": "Mrs. GREEN APPLE 是這次登上 iTunes 日本單曲榜的藝人，以《Brand New》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Brand New》於 2026/7/13 發行，屬於 ロック 曲風，是 Mrs. GREEN APPLE 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6785734870",
+      "name": "マイオンリー",
+      "artist": "SixTONES",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/28/43/be284309-bce7-bfc4-a1a8-90a6712b1b8f/4547366834611.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%83%9E%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC/6785734869?i=6785734870&uo=2",
+      "releaseDate": "2026-07-12T05:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-09-10T03:08:40.736Z",
+      "insight": {
+        "歌手簡介": "SixTONES 是這次登上 iTunes 日本單曲榜的藝人，以《マイオンリー》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《マイオンリー》於 2026/7/12 發行，屬於 J-Pop 曲風，是 SixTONES 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6798234534",
+      "name": "Panorama",
+      "artist": "TRIGGER",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/29/04/03290476-009e-79da-d07b-95448bea322a/4540774248469.png/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/panorama/6798234532?i=6798234534&uo=2",
+      "genre": "アニメ",
+      "recommendedAt": "2026-09-10T03:08:40.736Z",
+      "insight": {
+        "歌手簡介": "TRIGGER 是這次登上 iTunes 日本單曲榜的藝人，以《Panorama》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Panorama》屬於 アニメ 曲風，是 TRIGGER 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6797375186",
       "name": "IGNITE",
       "artist": "JO1",
