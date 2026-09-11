@@ -1,6 +1,46 @@
 {
   "entries": [
     {
+      "id": "6807078071",
+      "name": "ばっか",
+      "artist": "安田章大",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/b9/99/dfb9996d-bc29-c36d-d67d-e577e0485295/4517331101970.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%81%B0%E3%81%A3%E3%81%8B/6807078061?i=6807078071&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-09-11T03:04:10.602Z",
+      "insight": {
+        "歌手簡介": "安田章大 是這次登上 iTunes 日本單曲榜的藝人，以《ばっか》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《ばっか》屬於 J-Pop 曲風，是 安田章大 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6805852450",
+      "name": "November 11th",
+      "artist": "Stray Kids",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/c6/25/c3c6251f-c2e2-f6b4-5067-b2bb87488c4d/8809928956763.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/november-11th/6805852449?i=6805852450&uo=2",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-09-11T03:04:10.602Z",
+      "insight": {
+        "歌手簡介": "Stray Kids 是這次登上 iTunes 日本單曲榜的藝人，以《November 11th》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《November 11th》屬於 K-Pop 曲風，是 Stray Kids 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6808173275",
+      "name": "風と町",
+      "artist": "Mrs. GREEN APPLE",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/84/7d/79847db9-b0bb-7ef9-9cdb-8b39f3e99f6e/26UM1IM13923.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E9%A2%A8%E3%81%A8%E7%94%BA/6808172946?i=6808173275&uo=2",
+      "releaseDate": "2026-04-13T05:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-09-11T03:04:10.602Z",
+      "insight": {
+        "歌手簡介": "Mrs. GREEN APPLE 是這次登上 iTunes 日本單曲榜的藝人，以《風と町》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《風と町》於 2026/4/13 發行，屬於 ロック 曲風，是 Mrs. GREEN APPLE 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6808172958",
       "name": "Brand New",
       "artist": "Mrs. GREEN APPLE",
