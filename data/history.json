@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "6809348738",
+      "name": "Made My Night",
+      "artist": "LE SSERAFIM",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/5b/ec/d15becc1-10a6-1695-30eb-07ad42a0f30f/26UM1IM08260.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/made-my-night/6809348735?i=6809348738&uo=2",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-09-12T03:10:45.959Z",
+      "insight": {
+        "歌手簡介": "LE SSERAFIM 是這次登上 iTunes 日本單曲榜的藝人，以《Made My Night》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Made My Night》屬於 K-Pop 曲風，是 LE SSERAFIM 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6801103264",
+      "name": "マスク・ド・カメロ",
+      "artist": "ポルノグラフィティ",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/cb/aa/32cbaa40-6974-fb94-f0a6-25a0c723cdb7/4547366845877.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%83%9E%E3%82%B9%E3%82%AF-%E3%83%89-%E3%82%AB%E3%83%A1%E3%83%AD/6801103152?i=6801103264&uo=2",
+      "releaseDate": "2026-09-09T05:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-09-12T03:10:45.959Z",
+      "insight": {
+        "歌手簡介": "ポルノグラフィティ 是這次登上 iTunes 日本單曲榜的藝人，以《マスク・ド・カメロ》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《マスク・ド・カメロ》於 2026/9/9 發行，屬於 J-Pop 曲風，是 ポルノグラフィティ 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "259672692",
+      "name": "リンダリンダ",
+      "artist": "THE BLUE HEARTS",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/04/75/1b/mzi.zuzyecrg.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%83%AA%E3%83%B3%E3%83%80%E3%83%AA%E3%83%B3%E3%83%80/259672623?i=259672692&uo=2",
+      "releaseDate": "1987-05-21T05:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-09-12T03:10:45.959Z",
+      "insight": {
+        "歌手簡介": "THE BLUE HEARTS 是這次登上 iTunes 日本單曲榜的藝人，以《リンダリンダ》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《リンダリンダ》於 1987/5/21 發行，屬於 ロック 曲風，是 THE BLUE HEARTS 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6807078071",
       "name": "ばっか",
       "artist": "安田章大",
