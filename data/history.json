@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "id": "6806149405",
+      "name": "音銀河",
+      "artist": "玉置浩二 & ASKA",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/ac/f6/cfacf63f-82c4-b8b3-2729-e9f8d6ec123c/4547366850437.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E9%9F%B3%E9%8A%80%E6%B2%B3/6806149403?i=6806149405&uo=2",
+      "releaseDate": "2026-09-09T05:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-09-13T03:13:42.373Z",
+      "insight": {
+        "歌手簡介": "玉置浩二 & ASKA 是這次登上 iTunes 日本單曲榜的藝人，以《音銀河》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《音銀河》於 2026/9/9 發行，屬於 J-Pop 曲風，是 玉置浩二 & ASKA 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6808173285",
+      "name": "Carrying Happiness",
+      "artist": "Mrs. GREEN APPLE",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/84/7d/79847db9-b0bb-7ef9-9cdb-8b39f3e99f6e/26UM1IM13923.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/carrying-happiness/6808172946?i=6808173285&uo=2",
+      "releaseDate": "2025-07-19T05:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-09-13T03:13:42.373Z",
+      "insight": {
+        "歌手簡介": "Mrs. GREEN APPLE 是這次登上 iTunes 日本單曲榜的藝人，以《Carrying Happiness》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Carrying Happiness》於 2025/7/19 發行，屬於 ロック 曲風，是 Mrs. GREEN APPLE 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6804955637",
+      "name": "オドレオドレドレ",
+      "artist": "おかあさんといっしょ, 花田ゆういちろう (おかあさんといっしょ) & ながた まや(おかあさんといっしょ)",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/19/ae/7319aed2-34a9-0e2a-115f-42823a2cc8ff/28517.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%82%AA%E3%83%89%E3%83%AC%E3%82%AA%E3%83%89%E3%83%AC%E3%83%89%E3%83%AC/6804955635?i=6804955637&uo=2",
+      "releaseDate": "2026-09-09T05:00:00-07:00",
+      "genre": "チルドレン・ミュージック",
+      "recommendedAt": "2026-09-13T03:13:42.373Z",
+      "insight": {
+        "歌手簡介": "おかあさんといっしょ, 花田ゆういちろう (おかあさんといっしょ) & ながた まや(おかあさんといっしょ) 是這次登上 iTunes 日本單曲榜的藝人，以《オドレオドレドレ》這首 チルドレン・ミュージック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《オドレオドレドレ》於 2026/9/9 發行，屬於 チルドレン・ミュージック 曲風，是 おかあさんといっしょ, 花田ゆういちろう (おかあさんといっしょ) & ながた まや(おかあさんといっしょ) 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6809348738",
       "name": "Made My Night",
       "artist": "LE SSERAFIM",
