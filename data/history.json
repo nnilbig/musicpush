@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "6796662421",
+      "name": "You Know What To Do",
+      "artist": "INI",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/5f/a1/755fa1f8-5f9d-e1e8-3647-f506ee6dba21/26UMGIM99547.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/you-know-what-to-do/6796662137?i=6796662421&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-09-15T03:27:35.261Z",
+      "insight": {
+        "歌手簡介": "INI 是這次登上 iTunes 日本單曲榜的藝人，以《You Know What To Do》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《You Know What To Do》屬於 J-Pop 曲風，是 INI 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "1839428215",
+      "name": "Notes'n'Words",
+      "artist": "ONE OK ROCK",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/b9/d3/99b9d3dd-b465-78d5-33d0-a441b43c4228/25UMGIM89662.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/notesnwords/1839428209?i=1839428215&uo=2",
+      "releaseDate": "2012-08-22T05:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-09-15T03:27:35.261Z",
+      "insight": {
+        "歌手簡介": "ONE OK ROCK 是這次登上 iTunes 日本單曲榜的藝人，以《Notes'n'Words》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Notes'n'Words》於 2012/8/22 發行，屬於 ロック 曲風，是 ONE OK ROCK 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6810909494",
+      "name": "STARS (feat. Maozon & Preciou'S)",
+      "artist": "eMPIRE SOUND SYSTeMS",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/a2/fe/b1a2fee3-7117-be15-06e2-4d7ae92bd968/PA00227858_0_254623_jacket.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/stars-feat-maozon-precious/6810909489?i=6810909494&uo=2",
+      "releaseDate": "2026-09-14T00:00:00-07:00",
+      "genre": "アニメ",
+      "recommendedAt": "2026-09-15T03:27:35.261Z",
+      "insight": {
+        "歌手簡介": "eMPIRE SOUND SYSTeMS 是這次登上 iTunes 日本單曲榜的藝人，以《STARS (feat. Maozon & Preciou'S)》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《STARS (feat. Maozon & Preciou'S)》於 2026/9/14 發行，屬於 アニメ 曲風，是 eMPIRE SOUND SYSTeMS 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6803023217",
       "name": "BLACK OUT MISSION",
       "artist": "なにわ男子",
