@@ -1,6 +1,46 @@
 {
   "entries": [
     {
+      "id": "6810991641",
+      "name": "Emotion",
+      "artist": "Aぇ! group",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/f0/e7/5ff0e746-68a9-510e-3000-c5a1d7ae3927/26UM1IM01870.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/emotion/6810991639?i=6810991641&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-09-16T03:24:03.316Z",
+      "insight": {
+        "歌手簡介": "Aぇ! group 是這次登上 iTunes 日本單曲榜的藝人，以《Emotion》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Emotion》屬於 J-Pop 曲風，是 Aぇ! group 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6802982217",
+      "name": "i know you",
+      "artist": "IDOLiSH7",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/c5/41/acc54153-fa7d-32d0-194d-d33b579c482a/4540774248476.png/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/i-know-you/6802982215?i=6802982217&uo=2",
+      "genre": "アニメ",
+      "recommendedAt": "2026-09-16T03:24:03.316Z",
+      "insight": {
+        "歌手簡介": "IDOLiSH7 是這次登上 iTunes 日本單曲榜的藝人，以《i know you》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《i know you》屬於 アニメ 曲風，是 IDOLiSH7 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6808173147",
+      "name": "lulu.",
+      "artist": "Mrs. GREEN APPLE",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/84/7d/79847db9-b0bb-7ef9-9cdb-8b39f3e99f6e/26UM1IM13923.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/lulu/6808172946?i=6808173147&uo=2",
+      "releaseDate": "2026-01-12T04:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-09-16T03:24:03.316Z",
+      "insight": {
+        "歌手簡介": "Mrs. GREEN APPLE 是這次登上 iTunes 日本單曲榜的藝人，以《lulu.》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《lulu.》於 2026/1/12 發行，屬於 ロック 曲風，是 Mrs. GREEN APPLE 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6796662421",
       "name": "You Know What To Do",
       "artist": "INI",
