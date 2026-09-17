@@ -1,6 +1,46 @@
 {
   "entries": [
     {
+      "id": "6803798499",
+      "name": "僕のすべては君のもの",
+      "artist": "M!LK",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/c1/3e/d0c13e26-39b8-76b3-8ba5-b4412872260f/VEATP-45880.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E5%83%95%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AF%E5%90%9B%E3%81%AE%E3%82%82%E3%81%AE/6803798492?i=6803798499&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-09-17T03:29:43.420Z",
+      "insight": {
+        "歌手簡介": "M!LK 是這次登上 iTunes 日本單曲榜的藝人，以《僕のすべては君のもの》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《僕のすべては君のもの》屬於 J-Pop 曲風，是 M!LK 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6807006893",
+      "name": "The Arcadion ～至天の座アルカディア:ヘビー級～",
+      "artist": "祖堅正慶",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/68/ec/ce68ec28-fbd2-713a-902f-84ebbc30e334/SQEX-20106-1_3000x3000.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/the-arcadion-%E8%87%B3%E5%A4%A9%E3%81%AE%E5%BA%A7%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%87%E3%82%A3%E3%82%A2-%E3%83%98%E3%83%93%E3%83%BC%E7%B4%9A/6807006182?i=6807006893&uo=2",
+      "genre": "サウンドトラック",
+      "recommendedAt": "2026-09-17T03:29:43.420Z",
+      "insight": {
+        "歌手簡介": "祖堅正慶 是這次登上 iTunes 日本單曲榜的藝人，以《The Arcadion ～至天の座アルカディア:ヘビー級～》這首 サウンドトラック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《The Arcadion ～至天の座アルカディア:ヘビー級～》屬於 サウンドトラック 曲風，是 祖堅正慶 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "1891943326",
+      "name": "風と町",
+      "artist": "Mrs. GREEN APPLE",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/ec/7a/2fec7a5e-7ea1-ebc4-4d41-164790ccbabd/26UMGIM40658.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E9%A2%A8%E3%81%A8%E7%94%BA/1891943324?i=1891943326&uo=2",
+      "releaseDate": "2026-04-13T05:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-09-17T03:29:43.420Z",
+      "insight": {
+        "歌手簡介": "Mrs. GREEN APPLE 是這次登上 iTunes 日本單曲榜的藝人，以《風と町》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《風と町》於 2026/4/13 發行，屬於 ロック 曲風，是 Mrs. GREEN APPLE 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6810991641",
       "name": "Emotion",
       "artist": "Aぇ! group",
