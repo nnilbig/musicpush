@@ -1,6 +1,45 @@
 {
   "entries": [
     {
+      "id": "6810500454",
+      "name": "愛MUST BE",
+      "artist": "櫻坂46",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/a6/83/c3a683c2-b7ec-658c-9c9e-9233e3d34af6/4547366853889.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E6%84%9Bmust-be/6810500452?i=6810500454&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-09-18T03:15:11.943Z",
+      "insight": {
+        "歌手簡介": "櫻坂46 是這次登上 iTunes 日本單曲榜的藝人，以《愛MUST BE》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《愛MUST BE》屬於 J-Pop 曲風，是 櫻坂46 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6803788502",
+      "name": "Night Bloom",
+      "artist": "TRIGGER",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/2d/d5/652dd577-6d6d-3901-e9e2-ee3a34be06dd/4540774749942.png/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/night-bloom/6803788501?i=6803788502&uo=2",
+      "genre": "アニメ",
+      "recommendedAt": "2026-09-18T03:15:11.943Z",
+      "insight": {
+        "歌手簡介": "TRIGGER 是這次登上 iTunes 日本單曲榜的藝人，以《Night Bloom》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Night Bloom》屬於 アニメ 曲風，是 TRIGGER 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6807713791",
+      "name": "The Animals",
+      "artist": "MAN WITH A MISSION",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/89/25/0d8925cc-a0a5-df6e-6224-32f8377ba895/4547366851472.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/the-animals/6807713789?i=6807713791&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-09-18T03:15:11.943Z",
+      "insight": {
+        "歌手簡介": "MAN WITH A MISSION 是這次登上 iTunes 日本單曲榜的藝人，以《The Animals》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《The Animals》屬於 ロック 曲風，是 MAN WITH A MISSION 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6803798499",
       "name": "僕のすべては君のもの",
       "artist": "M!LK",
