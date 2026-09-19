@@ -1,6 +1,46 @@
 {
   "entries": [
     {
+      "id": "6794262924",
+      "name": "WATCH ME feat. BIA",
+      "artist": "BE:FIRST",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/de/95/03de95aa-8e9c-68b9-328c-9b5d9c9fd3ad/ANTCD-A0000020471.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/watch-me-feat-bia/6794262922?i=6794262924&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-09-19T03:11:32.342Z",
+      "insight": {
+        "歌手簡介": "BE:FIRST 是這次登上 iTunes 日本單曲榜的藝人，以《WATCH ME feat. BIA》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《WATCH ME feat. BIA》屬於 J-Pop 曲風，是 BE:FIRST 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6811716398",
+      "name": "名も無き魂の唄",
+      "artist": "She is Legend",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/90/14/799014bd-7320-7b78-fc6e-e541c4221bc7/4550760548640_cover.png/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E5%90%8D%E3%82%82%E7%84%A1%E3%81%8D%E9%AD%82%E3%81%AE%E5%94%84/6811716396?i=6811716398&uo=2",
+      "genre": "アニメ",
+      "recommendedAt": "2026-09-19T03:11:32.342Z",
+      "insight": {
+        "歌手簡介": "She is Legend 是這次登上 iTunes 日本單曲榜的藝人，以《名も無き魂の唄》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《名も無き魂の唄》屬於 アニメ 曲風，是 She is Legend 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6812894907",
+      "name": "new trick",
+      "artist": "ROSÉ",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/06/3f/48063f55-8c24-92e6-2bbe-ffb3a638420b/075679555984.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/new-trick/6812894902?i=6812894907&uo=2",
+      "releaseDate": "2026-09-17T00:00:00-07:00",
+      "genre": "ポップ",
+      "recommendedAt": "2026-09-19T03:11:32.342Z",
+      "insight": {
+        "歌手簡介": "ROSÉ 是這次登上 iTunes 日本單曲榜的藝人，以《new trick》這首 ポップ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《new trick》於 2026/9/17 發行，屬於 ポップ 曲風，是 ROSÉ 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6810500454",
       "name": "愛MUST BE",
       "artist": "櫻坂46",
