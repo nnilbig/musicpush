@@ -1,6 +1,46 @@
 {
   "entries": [
     {
+      "id": "6811759780",
+      "name": "Supermarket",
+      "artist": "SEKAI NO OWARI",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/67/60/4467609e-6a67-4a54-a3c9-2adf8479ea07/26UM1IM07693.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/supermarket/6811759779?i=6811759780&uo=2",
+      "releaseDate": "2026-09-18T05:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-09-20T03:28:00.549Z",
+      "insight": {
+        "歌手簡介": "SEKAI NO OWARI 是這次登上 iTunes 日本單曲榜的藝人，以《Supermarket》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Supermarket》於 2026/9/18 發行，屬於 J-Pop 曲風，是 SEKAI NO OWARI 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6810595280",
+      "name": "B.O.G.S",
+      "artist": "Cellmates",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/50/41/c950414c-d763-bf2a-c6cc-a35dff1d30aa/4550760432741_cover.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/b-o-g-s/6810595278?i=6810595280&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-09-20T03:28:00.549Z",
+      "insight": {
+        "歌手簡介": "Cellmates 是這次登上 iTunes 日本單曲榜的藝人，以《B.O.G.S》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《B.O.G.S》屬於 ロック 曲風，是 Cellmates 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6803787113",
+      "name": "パルティシオン",
+      "artist": "徳川まつり (CV.諏訪彩花) & エミリー スチュアート (CV.郁原ゆう)",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/ee/4d/8cee4ddb-7ff3-1b0c-cfec-af0c3c05aa41/4540774749980.png/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%83%91%E3%83%AB%E3%83%86%E3%82%A3%E3%82%B7%E3%82%AA%E3%83%B3/6803787112?i=6803787113&uo=2",
+      "genre": "アニメ",
+      "recommendedAt": "2026-09-20T03:28:00.549Z",
+      "insight": {
+        "歌手簡介": "徳川まつり (CV.諏訪彩花) & エミリー スチュアート (CV.郁原ゆう) 是這次登上 iTunes 日本單曲榜的藝人，以《パルティシオン》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《パルティシオン》屬於 アニメ 曲風，是 徳川まつり (CV.諏訪彩花) & エミリー スチュアート (CV.郁原ゆう) 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6794262924",
       "name": "WATCH ME feat. BIA",
       "artist": "BE:FIRST",
