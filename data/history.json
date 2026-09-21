@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "6810953513",
+      "name": "Golden Sun",
+      "artist": "ONE N' ONLY",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/69/56/d569568c-c21d-9dd7-df16-ef06b0a2aeb6/26UM1IM12186.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/golden-sun/6810953509?i=6810953513&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-09-21T03:23:09.574Z",
+      "insight": {
+        "歌手簡介": "ONE N' ONLY 是這次登上 iTunes 日本單曲榜的藝人，以《Golden Sun》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Golden Sun》屬於 J-Pop 曲風，是 ONE N' ONLY 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6813474767",
+      "name": "ビタミン7",
+      "artist": "10-FEET & マキシマム ザ ホルモン",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/bc/73/b6bc739b-02e4-0a29-91c0-625c1d73bd8d/26UM1IM20167.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%83%93%E3%82%BF%E3%83%9F%E3%83%B37/6813474640?i=6813474767&uo=2",
+      "releaseDate": "2006-06-14T05:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-09-21T03:23:09.574Z",
+      "insight": {
+        "歌手簡介": "10-FEET & マキシマム ザ ホルモン 是這次登上 iTunes 日本單曲榜的藝人，以《ビタミン7》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《ビタミン7》於 2006/6/14 發行，屬於 ロック 曲風，是 10-FEET & マキシマム ザ ホルモン 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6810156702",
+      "name": "Rhythm And Police (Remastered)",
+      "artist": "松本晃彦",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/fd/80/48fd8012-9c3a-8e38-c495-296163c3f91e/26UM1IM15506.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/rhythm-and-police-remastered/6810156088?i=6810156702&uo=2",
+      "releaseDate": "2026-09-18T05:00:00-07:00",
+      "genre": "サウンドトラック",
+      "recommendedAt": "2026-09-21T03:23:09.574Z",
+      "insight": {
+        "歌手簡介": "松本晃彦 是這次登上 iTunes 日本單曲榜的藝人，以《Rhythm And Police (Remastered)》這首 サウンドトラック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Rhythm And Police (Remastered)》於 2026/9/18 發行，屬於 サウンドトラック 曲風，是 松本晃彦 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6811759780",
       "name": "Supermarket",
       "artist": "SEKAI NO OWARI",
