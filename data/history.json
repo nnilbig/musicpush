@@ -1,6 +1,45 @@
 {
   "entries": [
     {
+      "id": "6809739749",
+      "name": "RIZAN",
+      "artist": "稲葉浩志",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/9c/9b/419c9be8-8025-7d48-af84-fd528f7fbaf0/inaba-0238.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/rizan/6809739462?i=6809739749&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-09-22T03:22:19.067Z",
+      "insight": {
+        "歌手簡介": "稲葉浩志 是這次登上 iTunes 日本單曲榜的藝人，以《RIZAN》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《RIZAN》屬於 ロック 曲風，是 稲葉浩志 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6806929072",
+      "name": "WISHES",
+      "artist": "STARGLOW",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/75/58/b7755874-54c1-b1ee-a7dc-2890abecd8f3/ANTCD-A0000020870.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/wishes/6806928830?i=6806929072&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-09-22T03:22:19.067Z",
+      "insight": {
+        "歌手簡介": "STARGLOW 是這次登上 iTunes 日本單曲榜的藝人，以《WISHES》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《WISHES》屬於 J-Pop 曲風，是 STARGLOW 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6803787543",
+      "name": "If I…",
+      "artist": "馬場このみ (CV.髙橋ミナミ)",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/ab/6d/92ab6d62-9a61-0b11-a781-d60b2ae98fa5/4540774750313.png/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/if-i/6803787541?i=6803787543&uo=2",
+      "genre": "アニメ",
+      "recommendedAt": "2026-09-22T03:22:19.067Z",
+      "insight": {
+        "歌手簡介": "馬場このみ (CV.髙橋ミナミ) 是這次登上 iTunes 日本單曲榜的藝人，以《If I…》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《If I…》屬於 アニメ 曲風，是 馬場このみ (CV.髙橋ミナミ) 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6810953513",
       "name": "Golden Sun",
       "artist": "ONE N' ONLY",
