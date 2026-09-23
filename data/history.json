@@ -1,6 +1,46 @@
 {
   "entries": [
     {
+      "id": "6807250735",
+      "name": "DIGITAL GIRL",
+      "artist": "Number_i",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/19/0d/f7190d82-954e-3a01-4fa3-02ef68cf990c/1200214949495.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/digital-girl/6807250730?i=6807250735&uo=2",
+      "genre": "ヒップホップ／ラップ",
+      "recommendedAt": "2026-09-23T03:23:19.459Z",
+      "insight": {
+        "歌手簡介": "Number_i 是這次登上 iTunes 日本單曲榜的藝人，以《DIGITAL GIRL》這首 ヒップホップ／ラップ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《DIGITAL GIRL》屬於 ヒップホップ／ラップ 曲風，是 Number_i 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6805004489",
+      "name": "6 O'clock",
+      "artist": "三代目 J SOUL BROTHERS from EXILE TRIBE",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/13/f5/0913f515-55d5-9bb6-b4ff-786744ca1def/ANTCD-A0000020951.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/6-oclock/6805004488?i=6805004489&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-09-23T03:23:19.459Z",
+      "insight": {
+        "歌手簡介": "三代目 J SOUL BROTHERS from EXILE TRIBE 是這次登上 iTunes 日本單曲榜的藝人，以《6 O'clock》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《6 O'clock》屬於 J-Pop 曲風，是 三代目 J SOUL BROTHERS from EXILE TRIBE 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6811236826",
+      "name": "NO",
+      "artist": "THE MOTEL",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/5f/56/655f566d-411d-4680-8dfc-66dd4a356f8a/4550760479142_cover.png/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/no/6811236686?i=6811236826&uo=2",
+      "releaseDate": "2026-09-13T05:00:00-07:00",
+      "genre": "オルタナティブ",
+      "recommendedAt": "2026-09-23T03:23:19.459Z",
+      "insight": {
+        "歌手簡介": "THE MOTEL 是這次登上 iTunes 日本單曲榜的藝人，以《NO》這首 オルタナティブ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《NO》於 2026/9/13 發行，屬於 オルタナティブ 曲風，是 THE MOTEL 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6809739749",
       "name": "RIZAN",
       "artist": "稲葉浩志",
