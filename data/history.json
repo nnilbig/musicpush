@@ -1,6 +1,45 @@
 {
   "entries": [
     {
+      "id": "6807250731",
+      "name": "REBON",
+      "artist": "Number_i",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/19/0d/f7190d82-954e-3a01-4fa3-02ef68cf990c/1200214949495.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/rebon/6807250730?i=6807250731&uo=2",
+      "genre": "ヒップホップ／ラップ",
+      "recommendedAt": "2026-09-24T03:12:44.222Z",
+      "insight": {
+        "歌手簡介": "Number_i 是這次登上 iTunes 日本單曲榜的藝人，以《REBON》這首 ヒップホップ／ラップ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《REBON》屬於 ヒップホップ／ラップ 曲風，是 Number_i 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6809684038",
+      "name": "汚れた英雄",
+      "artist": "GLAY",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/47/71/22/47712274-99db-1005-9443-aa54029d2a1a/4524135340153.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E6%B1%9A%E3%82%8C%E3%81%9F%E8%8B%B1%E9%9B%84/6809684037?i=6809684038&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-09-24T03:12:44.222Z",
+      "insight": {
+        "歌手簡介": "GLAY 是這次登上 iTunes 日本單曲榜的藝人，以《汚れた英雄》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《汚れた英雄》屬於 ロック 曲風，是 GLAY 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6807626783",
+      "name": "rail",
+      "artist": "渡会雲雀",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/4c/c5/794cc5d3-e91e-bb52-0b60-17615b76619b/4550760154551_cover.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/rail/6807626448?i=6807626783&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-09-24T03:12:44.222Z",
+      "insight": {
+        "歌手簡介": "渡会雲雀 是這次登上 iTunes 日本單曲榜的藝人，以《rail》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《rail》屬於 J-Pop 曲風，是 渡会雲雀 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6807250735",
       "name": "DIGITAL GIRL",
       "artist": "Number_i",
