@@ -1,6 +1,46 @@
 {
   "entries": [
     {
+      "id": "6807250733",
+      "name": "BUGS LIFE",
+      "artist": "Number_i",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/19/0d/f7190d82-954e-3a01-4fa3-02ef68cf990c/1200214949495.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/bugs-life/6807250730?i=6807250733&uo=2",
+      "releaseDate": "2026-07-13T05:00:00-07:00",
+      "genre": "ヒップホップ／ラップ",
+      "recommendedAt": "2026-09-25T03:29:48.354Z",
+      "insight": {
+        "歌手簡介": "Number_i 是這次登上 iTunes 日本單曲榜的藝人，以《BUGS LIFE》這首 ヒップホップ／ラップ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《BUGS LIFE》於 2026/7/13 發行，屬於 ヒップホップ／ラップ 曲風，是 Number_i 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6808542938",
+      "name": "LOVEだね",
+      "artist": "ICEx",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/7d/ab/be7dabd2-a02d-bee6-71ad-6d3bfdf3dd8d/VEATP-45930.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/love%E3%81%A0%E3%81%AD/6808542934?i=6808542938&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-09-25T03:29:48.354Z",
+      "insight": {
+        "歌手簡介": "ICEx 是這次登上 iTunes 日本單曲榜的藝人，以《LOVEだね》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《LOVEだね》屬於 J-Pop 曲風，是 ICEx 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6812580000",
+      "name": "Roar",
+      "artist": "初星学園 & 十王星南",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9e/94/37/9e9437c2-0a98-7257-bba0-1ed8a5849cec/PA00227831_0_254787_jacket.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/roar/6812579993?i=6812580000&uo=2",
+      "genre": "アニメ",
+      "recommendedAt": "2026-09-25T03:29:48.354Z",
+      "insight": {
+        "歌手簡介": "初星学園 & 十王星南 是這次登上 iTunes 日本單曲榜的藝人，以《Roar》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Roar》屬於 アニメ 曲風，是 初星学園 & 十王星南 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6807250731",
       "name": "REBON",
       "artist": "Number_i",
