@@ -1,6 +1,46 @@
 {
   "entries": [
     {
+      "id": "6812259750",
+      "name": "Audition",
+      "artist": "坂道選抜 (乃木坂46×櫻坂46×日向坂46)",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/1e/25/b61e25cb-ad32-390d-23f0-cc323d830e6a/4547366856521.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/audition/6812259423?i=6812259750&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-09-26T03:35:34.845Z",
+      "insight": {
+        "歌手簡介": "坂道選抜 (乃木坂46×櫻坂46×日向坂46) 是這次登上 iTunes 日本單曲榜的藝人，以《Audition》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Audition》屬於 J-Pop 曲風，是 坂道選抜 (乃木坂46×櫻坂46×日向坂46) 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6809710582",
+      "name": "You (feat. UMI)",
+      "artist": "藤井 風",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/b8/6d/1ab86dc9-e8da-c2c0-095d-c0fd828ce63c/26UM1IM06483.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/you-feat-umi/6809710581?i=6809710582&uo=2",
+      "genre": "ポップ",
+      "recommendedAt": "2026-09-26T03:35:34.845Z",
+      "insight": {
+        "歌手簡介": "藤井 風 是這次登上 iTunes 日本單曲榜的藝人，以《You (feat. UMI)》這首 ポップ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《You (feat. UMI)》屬於 ポップ 曲風，是 藤井 風 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6807250738",
+      "name": "DEJA VU CLUB",
+      "artist": "Number_i",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/19/0d/f7190d82-954e-3a01-4fa3-02ef68cf990c/1200214949495.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/deja-vu-club/6807250730?i=6807250738&uo=2",
+      "releaseDate": "2026-09-23T05:00:00-07:00",
+      "genre": "ヒップホップ／ラップ",
+      "recommendedAt": "2026-09-26T03:35:34.845Z",
+      "insight": {
+        "歌手簡介": "Number_i 是這次登上 iTunes 日本單曲榜的藝人，以《DEJA VU CLUB》這首 ヒップホップ／ラップ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《DEJA VU CLUB》於 2026/9/23 發行，屬於 ヒップホップ／ラップ 曲風，是 Number_i 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6807250733",
       "name": "BUGS LIFE",
       "artist": "Number_i",
