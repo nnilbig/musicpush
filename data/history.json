@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "6809323986",
+      "name": "ハレルヤ",
+      "artist": "倉木麻衣",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/3d/cb/8a3dcb6e-0df5-1525-e5fd-dbeba3529562/mai-01046.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%83%8F%E3%83%AC%E3%83%AB%E3%83%A4/6809323984?i=6809323986&uo=2",
+      "releaseDate": "2026-09-25T05:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-09-27T03:44:03.776Z",
+      "insight": {
+        "歌手簡介": "倉木麻衣 是這次登上 iTunes 日本單曲榜的藝人，以《ハレルヤ》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《ハレルヤ》於 2026/9/25 發行，屬於 J-Pop 曲風，是 倉木麻衣 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6804979540",
+      "name": "一旦愛して♡",
+      "artist": "白石 紬 (CV.南 早紀), 望月杏奈 (CV.夏川椎菜), 春日未来 (CV.山崎はるか) & 矢吹可奈 (CV.木戸衣吹)",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ec/2f/ac/ec2fac53-40c3-a8cd-7d20-4404fa992efa/4540774750580.png/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E4%B8%80%E6%97%A6%E6%84%9B%E3%81%97%E3%81%A6/6804979539?i=6804979540&uo=2",
+      "genre": "アニメ",
+      "recommendedAt": "2026-09-27T03:44:03.776Z",
+      "insight": {
+        "歌手簡介": "白石 紬 (CV.南 早紀), 望月杏奈 (CV.夏川椎菜), 春日未来 (CV.山崎はるか) & 矢吹可奈 (CV.木戸衣吹) 是這次登上 iTunes 日本單曲榜的藝人，以《一旦愛して♡》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《一旦愛して♡》屬於 アニメ 曲風，是 白石 紬 (CV.南 早紀), 望月杏奈 (CV.夏川椎菜), 春日未来 (CV.山崎はるか) & 矢吹可奈 (CV.木戸衣吹) 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "1861940089",
+      "name": "Zoo ～君がいるから～ (From 『ズートピア2』/日本語版)",
+      "artist": "Dream Ami",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/4f/58/754f582c-d1fd-e35d-c622-f83ee6ed1fae/25UM2IM06914.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/zoo-%E5%90%9B%E3%81%8C%E3%81%84%E3%82%8B%E3%81%8B%E3%82%89-from-%E3%82%BA%E3%83%BC%E3%83%88%E3%83%94%E3%82%A22-%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88/1861940083?i=1861940089&uo=2",
+      "releaseDate": "2025-12-19T04:00:00-07:00",
+      "genre": "サウンドトラック",
+      "recommendedAt": "2026-09-27T03:44:03.776Z",
+      "insight": {
+        "歌手簡介": "Dream Ami 是這次登上 iTunes 日本單曲榜的藝人，以《Zoo ～君がいるから～ (From 『ズートピア2』/日本語版)》這首 サウンドトラック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Zoo ～君がいるから～ (From 『ズートピア2』/日本語版)》於 2025/12/19 發行，屬於 サウンドトラック 曲風，是 Dream Ami 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6812259750",
       "name": "Audition",
       "artist": "坂道選抜 (乃木坂46×櫻坂46×日向坂46)",
