@@ -1,6 +1,46 @@
 {
   "entries": [
     {
+      "id": "6812151891",
+      "name": "Escape",
+      "artist": "Kis-My-Ft2",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/7e/80/d17e80c8-1f92-cf08-941c-70d5b07a1b0b/ANTCD-A0000021122.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/escape/6812151890?i=6812151891&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-09-28T03:43:21.637Z",
+      "insight": {
+        "歌手簡介": "Kis-My-Ft2 是這次登上 iTunes 日本單曲榜的藝人，以《Escape》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Escape》屬於 J-Pop 曲風，是 Kis-My-Ft2 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6813339784",
+      "name": "Take Flight",
+      "artist": "SPYAIR",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/96/74/239674c2-6608-c0f9-ee29-c41cd8120dd2/4547366855036.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/take-flight/6813339781?i=6813339784&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-09-28T03:43:21.637Z",
+      "insight": {
+        "歌手簡介": "SPYAIR 是這次登上 iTunes 日本單曲榜的藝人，以《Take Flight》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Take Flight》屬於 ロック 曲風，是 SPYAIR 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6807250739",
+      "name": "PATRASCHE",
+      "artist": "Number_i",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/19/0d/f7190d82-954e-3a01-4fa3-02ef68cf990c/1200214949495.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/patrasche/6807250730?i=6807250739&uo=2",
+      "releaseDate": "2026-09-23T05:00:00-07:00",
+      "genre": "ヒップホップ／ラップ",
+      "recommendedAt": "2026-09-28T03:43:21.637Z",
+      "insight": {
+        "歌手簡介": "Number_i 是這次登上 iTunes 日本單曲榜的藝人，以《PATRASCHE》這首 ヒップホップ／ラップ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《PATRASCHE》於 2026/9/23 發行，屬於 ヒップホップ／ラップ 曲風，是 Number_i 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6809323986",
       "name": "ハレルヤ",
       "artist": "倉木麻衣",
