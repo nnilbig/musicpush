@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "id": "6813317376",
+      "name": "BACKLASH",
+      "artist": "Hiromitsu Kitayama",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/10/1b/80101bd1-33a4-c313-fe1d-809eac2bc1fe/28893.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/backlash/6813317375?i=6813317376&uo=2",
+      "releaseDate": "2026-09-28T05:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-09-29T04:18:20.616Z",
+      "insight": {
+        "歌手簡介": "Hiromitsu Kitayama 是這次登上 iTunes 日本單曲榜的藝人，以《BACKLASH》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《BACKLASH》於 2026/9/28 發行，屬於 J-Pop 曲風，是 Hiromitsu Kitayama 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6808173144",
+      "name": "GOOD DAY",
+      "artist": "Mrs. GREEN APPLE",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/cc/da/d9ccdae5-6251-b671-dbf3-5b0508dc52ad/26UM1IM13923.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/good-day/6808172946?i=6808173144&uo=2",
+      "releaseDate": "2025-09-28T05:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-09-29T04:18:20.616Z",
+      "insight": {
+        "歌手簡介": "Mrs. GREEN APPLE 是這次登上 iTunes 日本單曲榜的藝人，以《GOOD DAY》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《GOOD DAY》於 2025/9/28 發行，屬於 ロック 曲風，是 Mrs. GREEN APPLE 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6813722410",
+      "name": "ANIMAL",
+      "artist": "BOYNEXTDOOR",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/53/75/b05375f4-3a99-fec7-2d7e-802504a8f54c/26UM1IM17922.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/animal/6813722408?i=6813722410&uo=2",
+      "releaseDate": "2026-09-28T05:00:00-07:00",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-09-29T04:18:20.616Z",
+      "insight": {
+        "歌手簡介": "BOYNEXTDOOR 是這次登上 iTunes 日本單曲榜的藝人，以《ANIMAL》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《ANIMAL》於 2026/9/28 發行，屬於 K-Pop 曲風，是 BOYNEXTDOOR 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6812151891",
       "name": "Escape",
       "artist": "Kis-My-Ft2",
