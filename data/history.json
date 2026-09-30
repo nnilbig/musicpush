@@ -1,6 +1,45 @@
 {
   "entries": [
     {
+      "id": "6813022243",
+      "name": "DEMON'S SHOT",
+      "artist": "Aiobahn +81 & DEMONDICE",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/a5/ab/20a5ab13-7ae3-4e34-aa40-5eb6e9c421c5/ANTCD-A0000021126.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/demons-shot/6813022242?i=6813022243&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-09-30T04:02:15.123Z",
+      "insight": {
+        "歌手簡介": "Aiobahn +81 & DEMONDICE 是這次登上 iTunes 日本單曲榜的藝人，以《DEMON'S SHOT》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《DEMON'S SHOT》屬於 J-Pop 曲風，是 Aiobahn +81 & DEMONDICE 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6808173287",
+      "name": "Variety",
+      "artist": "Mrs. GREEN APPLE",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/cc/da/d9ccdae5-6251-b671-dbf3-5b0508dc52ad/26UM1IM13923.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/variety/6808172946?i=6808173287&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-09-30T04:02:15.123Z",
+      "insight": {
+        "歌手簡介": "Mrs. GREEN APPLE 是這次登上 iTunes 日本單曲榜的藝人，以《Variety》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Variety》屬於 ロック 曲風，是 Mrs. GREEN APPLE 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6812570868",
+      "name": "いつかわかる☆きっとあえる",
+      "artist": "熊田茜音&増井優花、名探偵プリキュア!",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/36/01/d636017b-3b6a-92cf-5143-170c4d273f4a/MJSS-09407.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%81%84%E3%81%A4%E3%81%8B%E3%82%8F%E3%81%8B%E3%82%8B-%E3%81%8D%E3%81%A3%E3%81%A8%E3%81%82%E3%81%88%E3%82%8B/6812570866?i=6812570868&uo=2",
+      "genre": "アニメ",
+      "recommendedAt": "2026-09-30T04:02:15.123Z",
+      "insight": {
+        "歌手簡介": "熊田茜音&増井優花、名探偵プリキュア! 是這次登上 iTunes 日本單曲榜的藝人，以《いつかわかる☆きっとあえる》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《いつかわかる☆きっとあえる》屬於 アニメ 曲風，是 熊田茜音&増井優花、名探偵プリキュア! 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6813317376",
       "name": "BACKLASH",
       "artist": "Hiromitsu Kitayama",
