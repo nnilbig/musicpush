@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "id": "6812152485",
+      "name": "Destiny Journeys",
+      "artist": "Vaundy",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/d7/fc/70d7fc4a-9c7e-df52-2d5a-7bb319c6ddc2/4547366829327.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/destiny-journeys/6812152473?i=6812152485&uo=2",
+      "releaseDate": "2026-09-30T05:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-10-01T04:13:45.251Z",
+      "insight": {
+        "歌手簡介": "Vaundy 是這次登上 iTunes 日本單曲榜的藝人，以《Destiny Journeys》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Destiny Journeys》於 2026/9/30 發行，屬於 ロック 曲風，是 Vaundy 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6812570870",
+      "name": "バイバイライアー",
+      "artist": "キュアエクレール(CV:長谷川育美)&キュアアルカナ(CV:東山奈央)、名探偵プリキュア!",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/36/01/d636017b-3b6a-92cf-5143-170c4d273f4a/MJSS-09407.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%83%90%E3%82%A4%E3%83%90%E3%82%A4%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%BC/6812570866?i=6812570870&uo=2",
+      "releaseDate": "2026-09-30T05:00:00-07:00",
+      "genre": "アニメ",
+      "recommendedAt": "2026-10-01T04:13:45.251Z",
+      "insight": {
+        "歌手簡介": "キュアエクレール(CV:長谷川育美)&キュアアルカナ(CV:東山奈央)、名探偵プリキュア! 是這次登上 iTunes 日本單曲榜的藝人，以《バイバイライアー》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《バイバイライアー》於 2026/9/30 發行，屬於 アニメ 曲風，是 キュアエクレール(CV:長谷川育美)&キュアアルカナ(CV:東山奈央)、名探偵プリキュア! 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6810557038",
+      "name": "GOLDEN STAR",
+      "artist": "REN",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/1f/f8/db1ff80f-6f7f-8956-0d2c-4653acf86a1f/4582109079447.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/golden-star/6810557037?i=6810557038&uo=2",
+      "releaseDate": "2026-09-30T05:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-01T04:13:45.251Z",
+      "insight": {
+        "歌手簡介": "REN 是這次登上 iTunes 日本單曲榜的藝人，以《GOLDEN STAR》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《GOLDEN STAR》於 2026/9/30 發行，屬於 J-Pop 曲風，是 REN 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6813022243",
       "name": "DEMON'S SHOT",
       "artist": "Aiobahn +81 & DEMONDICE",
