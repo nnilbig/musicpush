@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "1854086055",
+      "name": "RUN (timelesz edition)",
+      "artist": "timelesz",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/4c/ec/194cecdd-2cc7-ecbd-0483-ec278fb1b9d8/25UM1IM76038.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/run-timelesz-edition/1854086036?i=1854086055&uo=2",
+      "releaseDate": "2025-11-30T04:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-02T04:07:07.934Z",
+      "insight": {
+        "歌手簡介": "timelesz 是這次登上 iTunes 日本單曲榜的藝人，以《RUN (timelesz edition)》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《RUN (timelesz edition)》於 2025/11/30 發行，屬於 J-Pop 曲風，是 timelesz 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6816800580",
+      "name": "Agitato",
+      "artist": "初星学園",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/b1/13/f3b11306-f2ad-f33f-67ec-b63147ffd358/PA00229432_0_255513_jacket.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/agitato/6816800575?i=6816800580&uo=2",
+      "releaseDate": "2026-10-01T05:00:00-07:00",
+      "genre": "アニメ",
+      "recommendedAt": "2026-10-02T04:07:07.934Z",
+      "insight": {
+        "歌手簡介": "初星学園 是這次登上 iTunes 日本單曲榜的藝人，以《Agitato》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Agitato》於 2026/10/1 發行，屬於 アニメ 曲風，是 初星学園 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6815505071",
+      "name": "夕星-ゆうづつ-",
+      "artist": "RADWIMPS",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/fa/c3/23fac397-1a45-9dcc-8459-e1769ede428d/26UM1IM16445.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E5%A4%95%E6%98%9F-%E3%82%86%E3%81%86%E3%81%A5%E3%81%A4/6815505067?i=6815505071&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-10-02T04:07:07.934Z",
+      "insight": {
+        "歌手簡介": "RADWIMPS 是這次登上 iTunes 日本單曲榜的藝人，以《夕星-ゆうづつ-》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《夕星-ゆうづつ-》屬於 ロック 曲風，是 RADWIMPS 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6812152485",
       "name": "Destiny Journeys",
       "artist": "Vaundy",
