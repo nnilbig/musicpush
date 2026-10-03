@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "1854086243",
+      "name": "ぎゅっと (timelesz edition)",
+      "artist": "timelesz",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/4c/ec/194cecdd-2cc7-ecbd-0483-ec278fb1b9d8/25UM1IM76038.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%81%8E%E3%82%85%E3%81%A3%E3%81%A8-timelesz-edition/1854086036?i=1854086243&uo=2",
+      "releaseDate": "2025-11-30T04:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-03T03:50:32.137Z",
+      "insight": {
+        "歌手簡介": "timelesz 是這次登上 iTunes 日本單曲榜的藝人，以《ぎゅっと (timelesz edition)》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《ぎゅっと (timelesz edition)》於 2025/11/30 發行，屬於 J-Pop 曲風，是 timelesz 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6811766130",
+      "name": "シグナル (名前のない混沌)",
+      "artist": "佐野元春 & THE COYOTE BAND",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/61/b1/1e61b1a1-5bb0-b50b-01e9-bb7eb1c16332/4517331101994.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%82%B7%E3%82%B0%E3%83%8A%E3%83%AB-%E5%90%8D%E5%89%8D%E3%81%AE%E3%81%AA%E3%81%84%E6%B7%B7%E6%B2%8C/6811766129?i=6811766130&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-10-03T03:50:32.137Z",
+      "insight": {
+        "歌手簡介": "佐野元春 & THE COYOTE BAND 是這次登上 iTunes 日本單曲榜的藝人，以《シグナル (名前のない混沌)》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《シグナル (名前のない混沌)》屬於 ロック 曲風，是 佐野元春 & THE COYOTE BAND 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6813035759",
+      "name": "エメラルド",
+      "artist": "キタニタツヤ",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/38/c5/d538c5bd-1fed-2b69-0ae8-383451474220/4547366856613.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%82%A8%E3%83%A1%E3%83%A9%E3%83%AB%E3%83%89/6813035642?i=6813035759&uo=2",
+      "releaseDate": "2026-09-30T05:00:00-07:00",
+      "genre": "オルタナティブ",
+      "recommendedAt": "2026-10-03T03:50:32.137Z",
+      "insight": {
+        "歌手簡介": "キタニタツヤ 是這次登上 iTunes 日本單曲榜的藝人，以《エメラルド》這首 オルタナティブ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《エメラルド》於 2026/9/30 發行，屬於 オルタナティブ 曲風，是 キタニタツヤ 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "1854086055",
       "name": "RUN (timelesz edition)",
       "artist": "timelesz",
