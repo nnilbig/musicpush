@@ -1,6 +1,34 @@
 {
   "entries": [
     {
+      "id": "6817260751",
+      "name": "結び",
+      "artist": "Ayumu Imazu",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/54/c5/aa54c5c6-e8e0-a701-6329-2c3a6fa228c2/26UM1IM20018.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E7%B5%90%E3%81%B3/6817260750?i=6817260751&uo=2",
+      "releaseDate": "2026-10-02T00:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-04T04:22:08.566Z",
+      "insight": {
+        "歌手簡介": "Ayumu Imazu 是這次登上 iTunes 日本單曲榜的藝人，以《結び》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《結び》於 2026/10/2 發行，屬於 J-Pop 曲風，是 Ayumu Imazu 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6808172970",
+      "name": "共犯",
+      "artist": "Mrs. GREEN APPLE",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/cc/da/d9ccdae5-6251-b671-dbf3-5b0508dc52ad/26UM1IM13923.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E5%85%B1%E7%8A%AF/6808172946?i=6808172970&uo=2",
+      "releaseDate": "2026-09-30T05:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-10-04T04:22:08.566Z",
+      "insight": {
+        "歌手簡介": "Mrs. GREEN APPLE 是這次登上 iTunes 日本單曲榜的藝人，以《共犯》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《共犯》於 2026/9/30 發行，屬於 ロック 曲風，是 Mrs. GREEN APPLE 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "1854086243",
       "name": "ぎゅっと (timelesz edition)",
       "artist": "timelesz",
