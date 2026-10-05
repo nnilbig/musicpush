@@ -1,6 +1,46 @@
 {
   "entries": [
     {
+      "id": "6815546833",
+      "name": "swim?",
+      "artist": "KAITO",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/3b/ac/8d3baca3-9935-fa5a-99a0-ba83a71d430f/26UM1IM15480.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/swim/6815546832?i=6815546833&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-05T04:07:26.458Z",
+      "insight": {
+        "歌手簡介": "KAITO 是這次登上 iTunes 日本單曲榜的藝人，以《swim?》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《swim?》屬於 J-Pop 曲風，是 KAITO 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "1706829387",
+      "name": "しわあわせ",
+      "artist": "Vaundy",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/26/7f/ca/267fca78-32f8-1504-95fe-d74245126abe/197189907456.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%81%97%E3%82%8F%E3%81%82%E3%82%8F%E3%81%9B/1706829225?i=1706829387&uo=2",
+      "releaseDate": "2021-04-11T05:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-10-05T04:07:26.458Z",
+      "insight": {
+        "歌手簡介": "Vaundy 是這次登上 iTunes 日本單曲榜的藝人，以《しわあわせ》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《しわあわせ》於 2021/4/11 發行，屬於 ロック 曲風，是 Vaundy 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6817152222",
+      "name": "Rendezvous",
+      "artist": "Mili",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/18/3d/9d183d62-151b-a1f8-ff14-294cb4afae2f/4550795026823_cover.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/rendezvous/6817152221?i=6817152222&uo=2",
+      "genre": "アニメ",
+      "recommendedAt": "2026-10-05T04:07:26.458Z",
+      "insight": {
+        "歌手簡介": "Mili 是這次登上 iTunes 日本單曲榜的藝人，以《Rendezvous》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Rendezvous》屬於 アニメ 曲風，是 Mili 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6817260751",
       "name": "結び",
       "artist": "Ayumu Imazu",
