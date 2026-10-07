@@ -1,6 +1,46 @@
 {
   "entries": [
     {
+      "id": "6816861274",
+      "name": "総天然色 (Radio Edit)",
+      "artist": "L'Arc-en-Ciel",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/58/c2/f958c2d4-fcb0-37e0-5ed2-cfe5544e4565/4517331102076.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E7%B7%8F%E5%A4%A9%E7%84%B6%E8%89%B2-radio-edit/6816860417?i=6816861274&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-10-07T04:22:53.288Z",
+      "insight": {
+        "歌手簡介": "L'Arc-en-Ciel 是這次登上 iTunes 日本單曲榜的藝人，以《総天然色 (Radio Edit)》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《総天然色 (Radio Edit)》屬於 ロック 曲風，是 L'Arc-en-Ciel 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6813373404",
+      "name": "リスポーン!!",
+      "artist": "角巻わため",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/ed/a2/1ceda2b6-4f34-95bf-021c-b64ce9e177f4/4988021079860.png/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%83%AA%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%B3/6813373403?i=6813373404&uo=2",
+      "genre": "アニメ",
+      "recommendedAt": "2026-10-07T04:22:53.288Z",
+      "insight": {
+        "歌手簡介": "角巻わため 是這次登上 iTunes 日本單曲榜的藝人，以《リスポーン!!》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《リスポーン!!》屬於 アニメ 曲風，是 角巻わため 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6810484116",
+      "name": "SPIN",
+      "artist": "Kroi",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/bf/52/4bbf52a7-8cfc-9174-b85d-efc473c6c80a/28688.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/spin/6810484114?i=6810484116&uo=2",
+      "releaseDate": "2026-09-23T05:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-07T04:22:53.288Z",
+      "insight": {
+        "歌手簡介": "Kroi 是這次登上 iTunes 日本單曲榜的藝人，以《SPIN》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《SPIN》於 2026/9/23 發行，屬於 J-Pop 曲風，是 Kroi 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6814432771",
       "name": "ANIMAL",
       "artist": "JO1",
