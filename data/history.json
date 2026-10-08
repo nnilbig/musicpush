@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "6813307292",
+      "name": "MISTIA",
+      "artist": "ROIROM",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f6/57/95/f6579504-56d2-eb02-6313-929245fbb86c/VEATP-45969.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/mistia/6813307291?i=6813307292&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-08T04:34:26.491Z",
+      "insight": {
+        "歌手簡介": "ROIROM 是這次登上 iTunes 日本單曲榜的藝人，以《MISTIA》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《MISTIA》屬於 J-Pop 曲風，是 ROIROM 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6815524411",
+      "name": "悲しみさえ大人びて",
+      "artist": "amazarashi",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/77/22/297722c6-83bf-36e8-ec1e-4463762f8cf2/4547366856019.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E6%82%B2%E3%81%97%E3%81%BF%E3%81%95%E3%81%88%E5%A4%A7%E4%BA%BA%E3%81%B3%E3%81%A6/6815524410?i=6815524411&uo=2",
+      "releaseDate": "2026-10-07T05:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-10-08T04:34:26.491Z",
+      "insight": {
+        "歌手簡介": "amazarashi 是這次登上 iTunes 日本單曲榜的藝人，以《悲しみさえ大人びて》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《悲しみさえ大人びて》於 2026/10/7 發行，屬於 ロック 曲風，是 amazarashi 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6817611419",
+      "name": "Tic Tac Toe",
+      "artist": "ONEW & ZICO",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9e/e0/ae/9ee0ae93-7c1a-4688-7ef9-4bedeef79883/191953582733.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/tic-tac-toe/6817611418?i=6817611419&uo=2",
+      "releaseDate": "2026-10-07T05:00:00-07:00",
+      "genre": "ヒップホップ／ラップ",
+      "recommendedAt": "2026-10-08T04:34:26.491Z",
+      "insight": {
+        "歌手簡介": "ONEW & ZICO 是這次登上 iTunes 日本單曲榜的藝人，以《Tic Tac Toe》這首 ヒップホップ／ラップ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Tic Tac Toe》於 2026/10/7 發行，屬於 ヒップホップ／ラップ 曲風，是 ONEW & ZICO 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6816861274",
       "name": "総天然色 (Radio Edit)",
       "artist": "L'Arc-en-Ciel",
