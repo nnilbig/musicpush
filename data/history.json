@@ -1,6 +1,46 @@
 {
   "entries": [
     {
+      "id": "6810991829",
+      "name": "Mrs.Vampire",
+      "artist": "Aぇ! group",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/f0/e7/5ff0e746-68a9-510e-3000-c5a1d7ae3927/26UM1IM01870.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/mrs-vampire/6810991639?i=6810991829&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-09T04:37:41.369Z",
+      "insight": {
+        "歌手簡介": "Aぇ! group 是這次登上 iTunes 日本單曲榜的藝人，以《Mrs.Vampire》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Mrs.Vampire》屬於 J-Pop 曲風，是 Aぇ! group 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6820463319",
+      "name": "SEASONS (feat. ayumi hamasaki)",
+      "artist": "AK-69",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/ae/c0/cdaec0be-2156-0e9c-2eec-612cc4e3eaab/4550795379042_cover.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/seasons-feat-ayumi-hamasaki/6820463104?i=6820463319&uo=2",
+      "genre": "ヒップホップ／ラップ",
+      "recommendedAt": "2026-10-09T04:37:41.369Z",
+      "insight": {
+        "歌手簡介": "AK-69 是這次登上 iTunes 日本單曲榜的藝人，以《SEASONS (feat. ayumi hamasaki)》這首 ヒップホップ／ラップ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《SEASONS (feat. ayumi hamasaki)》屬於 ヒップホップ／ラップ 曲風，是 AK-69 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6817051437",
+      "name": "ゆずれない願い",
+      "artist": "田村直美",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/eb/4d/3beb4d42-6f9e-af50-6657-63ad86d15855/26UM1IM17065.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%82%86%E3%81%9A%E3%82%8C%E3%81%AA%E3%81%84%E9%A1%98%E3%81%84/6817051160?i=6817051437&uo=2",
+      "releaseDate": "1994-11-09T04:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-10-09T04:37:41.369Z",
+      "insight": {
+        "歌手簡介": "田村直美 是這次登上 iTunes 日本單曲榜的藝人，以《ゆずれない願い》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《ゆずれない願い》於 1994/11/9 發行，屬於 ロック 曲風，是 田村直美 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6813307292",
       "name": "MISTIA",
       "artist": "ROIROM",
