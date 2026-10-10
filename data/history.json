@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "6818468048",
+      "name": "あかねさす頃",
+      "artist": "ずっと真夜中でいいのに。",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/a8/85/16a885b8-b66f-b42e-169f-6143888c70b3/26UM1IM20154.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%81%82%E3%81%8B%E3%81%AD%E3%81%95%E3%81%99%E9%A0%83/6818468042?i=6818468048&uo=2",
+      "releaseDate": "2026-10-08T05:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-10-10T04:23:32.572Z",
+      "insight": {
+        "歌手簡介": "ずっと真夜中でいいのに。 是這次登上 iTunes 日本單曲榜的藝人，以《あかねさす頃》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《あかねさす頃》於 2026/10/8 發行，屬於 ロック 曲風，是 ずっと真夜中でいいのに。 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6819172155",
+      "name": "Fearless",
+      "artist": "&TEAM",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/99/b4/e899b443-7f49-034c-259f-6ae520720e8b/26UM1IM26455.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/fearless/6819172154?i=6819172155&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-10T04:23:32.572Z",
+      "insight": {
+        "歌手簡介": "&TEAM 是這次登上 iTunes 日本單曲榜的藝人，以《Fearless》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Fearless》屬於 J-Pop 曲風，是 &TEAM 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "1512905320",
+      "name": "ゆずれない願い (Complete ver)",
+      "artist": "田村直美",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/51/20/ff/5120ff52-bb67-0f06-64c1-dafcc53e2a83/859755755556_cover.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%82%86%E3%81%9A%E3%82%8C%E3%81%AA%E3%81%84%E9%A1%98%E3%81%84-complete-ver/1512905162?i=1512905320&uo=2",
+      "releaseDate": "1994-11-09T00:00:00-07:00",
+      "genre": "アニメ",
+      "recommendedAt": "2026-10-10T04:23:32.572Z",
+      "insight": {
+        "歌手簡介": "田村直美 是這次登上 iTunes 日本單曲榜的藝人，以《ゆずれない願い (Complete ver)》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《ゆずれない願い (Complete ver)》於 1994/11/9 發行，屬於 アニメ 曲風，是 田村直美 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6810991829",
       "name": "Mrs.Vampire",
       "artist": "Aぇ! group",
