@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "6817190324",
+      "name": "愛で全部抱きしめて愛して",
+      "artist": "倉木麻衣",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/cf/f6/20cff624-0cd9-ab9e-ddca-2664eefa1a2b/mai-01047.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E6%84%9B%E3%81%A7%E5%85%A8%E9%83%A8%E6%8A%B1%E3%81%8D%E3%81%97%E3%82%81%E3%81%A6%E6%84%9B%E3%81%97%E3%81%A6/6817190323?i=6817190324&uo=2",
+      "releaseDate": "2026-10-10T05:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-11T04:04:24.843Z",
+      "insight": {
+        "歌手簡介": "倉木麻衣 是這次登上 iTunes 日本單曲榜的藝人，以《愛で全部抱きしめて愛して》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《愛で全部抱きしめて愛して》於 2026/10/10 發行，屬於 J-Pop 曲風，是 倉木麻衣 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6815691224",
+      "name": "Firestarter",
+      "artist": "MAN WITH A MISSION",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/47/7c/31477ced-6d71-93ce-ac7d-66b69dc13cd2/4547366856347.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/firestarter/6815691223?i=6815691224&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-10-11T04:04:24.843Z",
+      "insight": {
+        "歌手簡介": "MAN WITH A MISSION 是這次登上 iTunes 日本單曲榜的藝人，以《Firestarter》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Firestarter》屬於 ロック 曲風，是 MAN WITH A MISSION 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6812164934",
+      "name": "パンどろぼうのうた",
+      "artist": "パンどろぼうとパンやのおじさん(CV:朝井彩加とCV:諏訪部順一)",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/5b/ec/ef5becc7-3559-be25-5111-4cd3545f1fcc/PA00227485_0_254815_jacket.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%83%91%E3%83%B3%E3%81%A9%E3%82%8D%E3%81%BC%E3%81%86%E3%81%AE%E3%81%86%E3%81%9F/6812164641?i=6812164934&uo=2",
+      "releaseDate": "2026-10-03T05:00:00-07:00",
+      "genre": "アニメ",
+      "recommendedAt": "2026-10-11T04:04:24.843Z",
+      "insight": {
+        "歌手簡介": "パンどろぼうとパンやのおじさん(CV:朝井彩加とCV:諏訪部順一) 是這次登上 iTunes 日本單曲榜的藝人，以《パンどろぼうのうた》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《パンどろぼうのうた》於 2026/10/3 發行，屬於 アニメ 曲風，是 パンどろぼうとパンやのおじさん(CV:朝井彩加とCV:諏訪部順一) 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6818468048",
       "name": "あかねさす頃",
       "artist": "ずっと真夜中でいいのに。",
