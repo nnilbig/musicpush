@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "6819134540",
+      "name": "EGO",
+      "artist": "Travis Japan",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/da/d9/6bdad980-a723-2291-d36a-10c56cd30223/26UM1IM15358.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/ego/6819134538?i=6819134540&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-12T04:23:42.897Z",
+      "insight": {
+        "歌手簡介": "Travis Japan 是這次登上 iTunes 日本單曲榜的藝人，以《EGO》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《EGO》屬於 J-Pop 曲風，是 Travis Japan 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6815570499",
+      "name": "ぴ",
+      "artist": "ナナヲアカリ",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/43/38/da4338f2-0768-d2a6-8bdf-ad509a3ff30c/4547366850659.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%81%B4/6815570138?i=6815570499&uo=2",
+      "releaseDate": "2026-10-07T05:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-10-12T04:23:42.897Z",
+      "insight": {
+        "歌手簡介": "ナナヲアカリ 是這次登上 iTunes 日本單曲榜的藝人，以《ぴ》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《ぴ》於 2026/10/7 發行，屬於 ロック 曲風，是 ナナヲアカリ 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6812190650",
+      "name": "風の中は走るっきゃないっ!",
+      "artist": "三月のパンタシア",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/29/ae/9229aea9-b7c4-6f43-18c6-b4b033d61c72/4547366854893.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E9%A2%A8%E3%81%AE%E4%B8%AD%E3%81%AF%E8%B5%B0%E3%82%8B%E3%81%A3%E3%81%8D%E3%82%83%E3%81%AA%E3%81%84%E3%81%A3/6812190429?i=6812190650&uo=2",
+      "releaseDate": "2026-10-04T05:00:00-07:00",
+      "genre": "アニメ",
+      "recommendedAt": "2026-10-12T04:23:42.897Z",
+      "insight": {
+        "歌手簡介": "三月のパンタシア 是這次登上 iTunes 日本單曲榜的藝人，以《風の中は走るっきゃないっ!》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《風の中は走るっきゃないっ!》於 2026/10/4 發行，屬於 アニメ 曲風，是 三月のパンタシア 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6817190324",
       "name": "愛で全部抱きしめて愛して",
       "artist": "倉木麻衣",
