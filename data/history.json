@@ -1,6 +1,34 @@
 {
   "entries": [
     {
+      "id": "6817729836",
+      "name": "It's not a bad life",
+      "artist": "BE:FIRST",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f2/36/edf236d5-4773-2ad5-94ce-42f1f400b296/ANTCD-A0000020993.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/its-not-a-bad-life/6817729828?i=6817729836&uo=2",
+      "releaseDate": "2026-10-12T00:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-13T05:32:00.093Z",
+      "insight": {
+        "歌手簡介": "BE:FIRST 是這次登上 iTunes 日本單曲榜的藝人，以《It's not a bad life》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《It's not a bad life》於 2026/10/12 發行，屬於 J-Pop 曲風，是 BE:FIRST 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6816009946",
+      "name": "涙の河",
+      "artist": "羊文学 & くるり",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/aa/f3/8caaf3ee-04d1-cf40-9dc2-435f26cc86f6/4547366855999.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E6%B6%99%E3%81%AE%E6%B2%B3/6816009943?i=6816009946&uo=2",
+      "releaseDate": "2026-10-12T05:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-10-13T05:32:00.093Z",
+      "insight": {
+        "歌手簡介": "羊文学 & くるり 是這次登上 iTunes 日本單曲榜的藝人，以《涙の河》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《涙の河》於 2026/10/12 發行，屬於 ロック 曲風，是 羊文学 & くるり 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6819134540",
       "name": "EGO",
       "artist": "Travis Japan",
