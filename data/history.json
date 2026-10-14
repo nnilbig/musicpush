@@ -1,6 +1,45 @@
 {
   "entries": [
     {
+      "id": "6817668876",
+      "name": "咲き誇れ",
+      "artist": "YOASOBI",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/32/9e/7a329e90-a8e5-cc05-4a8f-142811b9b095/885288733761.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E5%92%B2%E3%81%8D%E8%AA%87%E3%82%8C/6817668875?i=6817668876&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-14T03:35:16.022Z",
+      "insight": {
+        "歌手簡介": "YOASOBI 是這次登上 iTunes 日本單曲榜的藝人，以《咲き誇れ》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《咲き誇れ》屬於 J-Pop 曲風，是 YOASOBI 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6818411026",
+      "name": "Everything I Need",
+      "artist": "ELLEGARDEN",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/1d/04/4f1d04f7-9c39-93f9-56f4-de8aa25d2db1/29378.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/everything-i-need/6818411025?i=6818411026&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-10-14T03:35:16.022Z",
+      "insight": {
+        "歌手簡介": "ELLEGARDEN 是這次登上 iTunes 日本單曲榜的藝人，以《Everything I Need》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Everything I Need》屬於 ロック 曲風，是 ELLEGARDEN 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6817316271",
+      "name": "雲を抜け風下へ私だけ",
+      "artist": "ヨルシカ",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/1b/25/4b1b2572-0dc9-7c83-1e56-ce3354ead351/26UM1IM20044.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E9%9B%B2%E3%82%92%E6%8A%9C%E3%81%91%E9%A2%A8%E4%B8%8B%E3%81%B8%E7%A7%81%E3%81%A0%E3%81%91/6817316270?i=6817316271&uo=2",
+      "genre": "オルタナティブ",
+      "recommendedAt": "2026-10-14T03:35:16.022Z",
+      "insight": {
+        "歌手簡介": "ヨルシカ 是這次登上 iTunes 日本單曲榜的藝人，以《雲を抜け風下へ私だけ》這首 オルタナティブ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《雲を抜け風下へ私だけ》屬於 オルタナティブ 曲風，是 ヨルシカ 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6817729836",
       "name": "It's not a bad life",
       "artist": "BE:FIRST",
