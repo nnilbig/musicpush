@@ -1,6 +1,34 @@
 {
   "entries": [
     {
+      "id": "6820334538",
+      "name": "サヨナラとバトン",
+      "artist": "DREAMS COME TRUE",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/33/6f/1e336feb-6aa0-9413-ecdc-34a12a57c845/26UM1IM17911.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%82%B5%E3%83%A8%E3%83%8A%E3%83%A9%E3%81%A8%E3%83%90%E3%83%88%E3%83%B3/6820334535?i=6820334538&uo=2",
+      "releaseDate": "2026-10-13T05:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-15T03:15:23.170Z",
+      "insight": {
+        "歌手簡介": "DREAMS COME TRUE 是這次登上 iTunes 日本單曲榜的藝人，以《サヨナラとバトン》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《サヨナラとバトン》於 2026/10/13 發行，屬於 J-Pop 曲風，是 DREAMS COME TRUE 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6820428730",
+      "name": "NEON",
+      "artist": "A2O & A2O LITE",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/47/9c/af/479caf36-9941-3b8e-51f5-98e761463502/888272190403_Cover.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/neon/6820428726?i=6820428730&uo=2",
+      "releaseDate": "2026-10-13T05:00:00-07:00",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-10-15T03:15:23.170Z",
+      "insight": {
+        "歌手簡介": "A2O & A2O LITE 是這次登上 iTunes 日本單曲榜的藝人，以《NEON》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《NEON》於 2026/10/13 發行，屬於 K-Pop 曲風，是 A2O & A2O LITE 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6817668876",
       "name": "咲き誇れ",
       "artist": "YOASOBI",
