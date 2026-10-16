@@ -1,6 +1,46 @@
 {
   "entries": [
     {
+      "id": "6780368967",
+      "name": "3XL",
+      "artist": "Number_i",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/52/90/295290eb-1ffc-1990-33e2-c754c6d3f361/4570199893418.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/3xl/6780368685?i=6780368967&uo=2",
+      "releaseDate": "2026-01-26T04:00:00-07:00",
+      "genre": "ヒップホップ／ラップ",
+      "recommendedAt": "2026-10-16T03:11:15.902Z",
+      "insight": {
+        "歌手簡介": "Number_i 是這次登上 iTunes 日本單曲榜的藝人，以《3XL》這首 ヒップホップ／ラップ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《3XL》於 2026/1/26 發行，屬於 ヒップホップ／ラップ 曲風，是 Number_i 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6811888323",
+      "name": "うららか",
+      "artist": "Da-iCE",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/27/1d/99271d70-4bc4-c7f9-5efc-d85d0de3a276/ANTCD-A0000021068.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%81%86%E3%82%89%E3%82%89%E3%81%8B/6811888320?i=6811888323&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-16T03:11:15.902Z",
+      "insight": {
+        "歌手簡介": "Da-iCE 是這次登上 iTunes 日本單曲榜的藝人，以《うららか》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《うららか》屬於 J-Pop 曲風，是 Da-iCE 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6819570457",
+      "name": "汝、星のごとく",
+      "artist": "RADWIMPS",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/60/30/506030b1-aa11-6bb4-2d4b-d2136790ff5c/26UM1IM29233.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E6%B1%9D-%E6%98%9F%E3%81%AE%E3%81%94%E3%81%A8%E3%81%8F/6819570455?i=6819570457&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-10-16T03:11:15.902Z",
+      "insight": {
+        "歌手簡介": "RADWIMPS 是這次登上 iTunes 日本單曲榜的藝人，以《汝、星のごとく》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《汝、星のごとく》屬於 ロック 曲風，是 RADWIMPS 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6820334538",
       "name": "サヨナラとバトン",
       "artist": "DREAMS COME TRUE",
