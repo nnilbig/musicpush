@@ -1,6 +1,45 @@
 {
   "entries": [
     {
+      "id": "6819493310",
+      "name": "Raven Sky",
+      "artist": "Ado",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/db/a6/fcdba60e-6b10-6bbf-a86e-ac96bb806cef/26UM1IM12682.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/raven-sky/6819493309?i=6819493310&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-17T03:02:18.041Z",
+      "insight": {
+        "歌手簡介": "Ado 是這次登上 iTunes 日本單曲榜的藝人，以《Raven Sky》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Raven Sky》屬於 J-Pop 曲風，是 Ado 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6817732536",
+      "name": "Turn The World Upside Down",
+      "artist": "霧島透子",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/94/82/9d94826d-cc86-9598-aa65-3246c30fd9cb/4534530166906.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/turn-the-world-upside-down/6817732108?i=6817732536&uo=2",
+      "genre": "アニメ",
+      "recommendedAt": "2026-10-17T03:02:18.041Z",
+      "insight": {
+        "歌手簡介": "霧島透子 是這次登上 iTunes 日本單曲榜的藝人，以《Turn The World Upside Down》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Turn The World Upside Down》屬於 アニメ 曲風，是 霧島透子 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6820982098",
+      "name": "MUJO",
+      "artist": "吉井和哉",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/bc/cb/d8bccb1e-16c2-c314-28ce-fe69c9f10434/26UM1IM27215.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/mujo/6820982093?i=6820982098&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-10-17T03:02:18.041Z",
+      "insight": {
+        "歌手簡介": "吉井和哉 是這次登上 iTunes 日本單曲榜的藝人，以《MUJO》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《MUJO》屬於 ロック 曲風，是 吉井和哉 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6780368967",
       "name": "3XL",
       "artist": "Number_i",
