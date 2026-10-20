@@ -1,6 +1,45 @@
 {
   "entries": [
     {
+      "id": "6813405925",
+      "name": "Moonlit",
+      "artist": "なにわ男子",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/bd/81/bfbd81b7-4e29-4dfb-7242-f179e98f56d1/885288584141.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/moonlit/6813405923?i=6813405925&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-20T03:27:14.600Z",
+      "insight": {
+        "歌手簡介": "なにわ男子 是這次登上 iTunes 日本單曲榜的藝人，以《Moonlit》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Moonlit》屬於 J-Pop 曲風，是 なにわ男子 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6818000111",
+      "name": "Looks Can Kill",
+      "artist": "IVE",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/0b/ad/7d0badc4-f18d-972a-56e2-d3de978d67f9/885288585919.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/looks-can-kill/6818000110?i=6818000111&uo=2",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-10-20T03:27:14.600Z",
+      "insight": {
+        "歌手簡介": "IVE 是這次登上 iTunes 日本單曲榜的藝人，以《Looks Can Kill》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Looks Can Kill》屬於 K-Pop 曲風，是 IVE 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6822671750",
+      "name": "翼なき疾走 (Cover)",
+      "artist": "Rockon Social Club",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/98/5b/6f985ba3-db78-0021-fe96-2966ba640d0e/4550795604052_cover.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E7%BF%BC%E3%81%AA%E3%81%8D%E7%96%BE%E8%B5%B0-cover/6822671745?i=6822671750&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-10-20T03:27:14.600Z",
+      "insight": {
+        "歌手簡介": "Rockon Social Club 是這次登上 iTunes 日本單曲榜的藝人，以《翼なき疾走 (Cover)》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《翼なき疾走 (Cover)》屬於 ロック 曲風，是 Rockon Social Club 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6810920372",
       "name": "Touch",
       "artist": "MAZZEL",
