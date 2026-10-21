@@ -1,6 +1,46 @@
 {
   "entries": [
     {
+      "id": "6810991642",
+      "name": "この朝は",
+      "artist": "Aぇ! group",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/f0/e7/5ff0e746-68a9-510e-3000-c5a1d7ae3927/26UM1IM01870.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%81%93%E3%81%AE%E6%9C%9D%E3%81%AF/6810991639?i=6810991642&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-21T03:22:10.996Z",
+      "insight": {
+        "歌手簡介": "Aぇ! group 是這次登上 iTunes 日本單曲榜的藝人，以《この朝は》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《この朝は》屬於 J-Pop 曲風，是 Aぇ! group 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6823003460",
+      "name": "Illusion",
+      "artist": "ONEW",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/93/29/499329cd-5e27-eb6a-d3f0-35907710b494/191953587769.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/illusion/6823003459?i=6823003460&uo=2",
+      "genre": "ダンス",
+      "recommendedAt": "2026-10-21T03:22:10.996Z",
+      "insight": {
+        "歌手簡介": "ONEW 是這次登上 iTunes 日本單曲榜的藝人，以《Illusion》這首 ダンス 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Illusion》屬於 ダンス 曲風，是 ONEW 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6810134253",
+      "name": "Pang Pang Pang",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/a3/79/4ca379f6-0d48-42ae-58af-0744c159148e/885288562576.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/pang-pang-pang/6810134250?i=6810134253&uo=2",
+      "releaseDate": "2026-10-02T05:00:00-07:00",
+      "genre": "エレクトロニック",
+      "recommendedAt": "2026-10-21T03:22:10.996Z",
+      "insight": {
+        "歌手簡介": "きゃりーぱみゅぱみゅ 是這次登上 iTunes 日本單曲榜的藝人，以《Pang Pang Pang》這首 エレクトロニック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Pang Pang Pang》於 2026/10/2 發行，屬於 エレクトロニック 曲風，是 きゃりーぱみゅぱみゅ 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6813405925",
       "name": "Moonlit",
       "artist": "なにわ男子",
