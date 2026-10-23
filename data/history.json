@@ -1,6 +1,33 @@
 {
   "entries": [
     {
+      "id": "6822210453",
+      "name": "心をとめないで",
+      "artist": "ゆず",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/00/01/69000178-ff25-3940-ce08-7210994f2912/TFDS-01421.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E5%BF%83%E3%82%92%E3%81%A8%E3%82%81%E3%81%AA%E3%81%84%E3%81%A7/6822210452?i=6822210453&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-23T03:25:52.524Z",
+      "insight": {
+        "歌手簡介": "ゆず 是這次登上 iTunes 日本單曲榜的藝人，以《心をとめないで》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《心をとめないで》屬於 J-Pop 曲風，是 ゆず 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6825167330",
+      "name": "Talk to me",
+      "artist": "ALPHA DRIVE ONE",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/20/14/7920149c-bb5d-516c-02bd-c5bb08e73c29/823375548720.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/talk-to-me/6825167329?i=6825167330&uo=2",
+      "releaseDate": "2026-10-22T00:00:00-07:00",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-10-23T03:25:52.524Z",
+      "insight": {
+        "歌手簡介": "ALPHA DRIVE ONE 是這次登上 iTunes 日本單曲榜的藝人，以《Talk to me》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Talk to me》於 2026/10/22 發行，屬於 K-Pop 曲風，是 ALPHA DRIVE ONE 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6819946977",
       "name": "それなのに",
       "artist": "Uru",
