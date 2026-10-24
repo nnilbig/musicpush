@@ -1,6 +1,45 @@
 {
   "entries": [
     {
+      "id": "6819992449",
+      "name": "再会愛 Lie 期待して Cry",
+      "artist": "Hey! Say! JUMP",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/49/53/7c49534f-a8ea-a65e-bea7-331e362f8737/4517331102106.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E5%86%8D%E4%BC%9A%E6%84%9B-lie-%E6%9C%9F%E5%BE%85%E3%81%97%E3%81%A6-cry/6819992448?i=6819992449&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-24T03:20:22.836Z",
+      "insight": {
+        "歌手簡介": "Hey! Say! JUMP 是這次登上 iTunes 日本單曲榜的藝人，以《再会愛 Lie 期待して Cry》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《再会愛 Lie 期待して Cry》屬於 J-Pop 曲風，是 Hey! Say! JUMP 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6823042566",
+      "name": "Drip",
+      "artist": "ATEEZ",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/8e/9c/458e9c58-5855-82ae-9a97-68249cfa857b/26UM1IM27841.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/drip/6823042550?i=6823042566&uo=2",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-10-24T03:20:22.836Z",
+      "insight": {
+        "歌手簡介": "ATEEZ 是這次登上 iTunes 日本單曲榜的藝人，以《Drip》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Drip》屬於 K-Pop 曲風，是 ATEEZ 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6819713131",
+      "name": "LOST",
+      "artist": "Maya",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/b7/7a/dcb77a59-24c9-ed83-0dc6-7a1e9c57230e/4547366858815.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/lost/6819713117?i=6819713131&uo=2",
+      "genre": "オルタナティブ",
+      "recommendedAt": "2026-10-24T03:20:22.836Z",
+      "insight": {
+        "歌手簡介": "Maya 是這次登上 iTunes 日本單曲榜的藝人，以《LOST》這首 オルタナティブ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《LOST》屬於 オルタナティブ 曲風，是 Maya 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6822210453",
       "name": "心をとめないで",
       "artist": "ゆず",
