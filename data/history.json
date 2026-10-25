@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "6820056554",
+      "name": "ゾンビゾンビゾンビ",
+      "artist": "星街すいせい",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/a0/1e/7fa01eac-757e-97fb-c924-9731f52f18f7/4573623373906.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%82%BE%E3%83%B3%E3%83%93%E3%82%BE%E3%83%B3%E3%83%93%E3%82%BE%E3%83%B3%E3%83%93/6820056553?i=6820056554&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-25T03:15:32.094Z",
+      "insight": {
+        "歌手簡介": "星街すいせい 是這次登上 iTunes 日本單曲榜的藝人，以《ゾンビゾンビゾンビ》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《ゾンビゾンビゾンビ》屬於 J-Pop 曲風，是 星街すいせい 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6822992689",
+      "name": "DESERVE",
+      "artist": "BABYMONSTER",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/9c/85/939c852d-5c97-27d7-39bb-461c34638179/4547366863864.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/deserve/6822992688?i=6822992689&uo=2",
+      "releaseDate": "2026-10-23T05:00:00-07:00",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-10-25T03:15:32.094Z",
+      "insight": {
+        "歌手簡介": "BABYMONSTER 是這次登上 iTunes 日本單曲榜的藝人，以《DESERVE》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《DESERVE》於 2026/10/23 發行，屬於 K-Pop 曲風，是 BABYMONSTER 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6808173126",
+      "name": "シンデレラ",
+      "artist": "Mrs. GREEN APPLE",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/cc/da/d9ccdae5-6251-b671-dbf3-5b0508dc52ad/26UM1IM13923.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9/6808172946?i=6808173126&uo=2",
+      "releaseDate": "2026-09-30T05:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-10-25T03:15:32.094Z",
+      "insight": {
+        "歌手簡介": "Mrs. GREEN APPLE 是這次登上 iTunes 日本單曲榜的藝人，以《シンデレラ》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《シンデレラ》於 2026/9/30 發行，屬於 ロック 曲風，是 Mrs. GREEN APPLE 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6819992449",
       "name": "再会愛 Lie 期待して Cry",
       "artist": "Hey! Say! JUMP",
