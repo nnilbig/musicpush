@@ -1,6 +1,45 @@
 {
   "entries": [
     {
+      "id": "6819134915",
+      "name": "チェックメイト",
+      "artist": "Travis Japan",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/da/d9/6bdad980-a723-2291-d36a-10c56cd30223/26UM1IM15358.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%83%A1%E3%82%A4%E3%83%88/6819134538?i=6819134915&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-26T03:16:51.284Z",
+      "insight": {
+        "歌手簡介": "Travis Japan 是這次登上 iTunes 日本單曲榜的藝人，以《チェックメイト》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《チェックメイト》屬於 J-Pop 曲風，是 Travis Japan 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6823113890",
+      "name": "Insomnia",
+      "artist": "RIIZE",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/42/1c/6c421cec-ceb8-4699-5457-36aa5fa2d8e0/26UM1IM32482.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/insomnia/6823113886?i=6823113890&uo=2",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-10-26T03:16:51.284Z",
+      "insight": {
+        "歌手簡介": "RIIZE 是這次登上 iTunes 日本單曲榜的藝人，以《Insomnia》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Insomnia》屬於 K-Pop 曲風，是 RIIZE 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6825385152",
+      "name": "不良 (Cover)",
+      "artist": "Rockon Social Club",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/29/ce/3629ce57-306d-8271-f44b-61b0ee131ca1/4550795844830_cover.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E4%B8%8D%E8%89%AF-cover/6825384892?i=6825385152&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-10-26T03:16:51.284Z",
+      "insight": {
+        "歌手簡介": "Rockon Social Club 是這次登上 iTunes 日本單曲榜的藝人，以《不良 (Cover)》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《不良 (Cover)》屬於 ロック 曲風，是 Rockon Social Club 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6820056554",
       "name": "ゾンビゾンビゾンビ",
       "artist": "星街すいせい",
