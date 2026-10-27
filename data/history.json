@@ -1,6 +1,45 @@
 {
   "entries": [
     {
+      "id": "6824399888",
+      "name": "ザッツ!超常",
+      "artist": "M!LK",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/64/fb/7e64fb04-5523-7ddc-b493-c0696a55c7ec/VEATP-46003.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%82%B6%E3%83%83%E3%83%84-%E8%B6%85%E5%B8%B8/6824399887?i=6824399888&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-27T03:45:49.886Z",
+      "insight": {
+        "歌手簡介": "M!LK 是這次登上 iTunes 日本單曲榜的藝人，以《ザッツ!超常》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《ザッツ!超常》屬於 J-Pop 曲風，是 M!LK 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6823102262",
+      "name": "You’re Under Arrest",
+      "artist": "ILLIT",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/33/ed/0f33ed9f-628a-e35f-41f2-4af285d9680c/26UM1IM32452.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/youre-under-arrest/6823102256?i=6823102262&uo=2",
+      "genre": "ポップ",
+      "recommendedAt": "2026-10-27T03:45:49.886Z",
+      "insight": {
+        "歌手簡介": "ILLIT 是這次登上 iTunes 日本單曲榜的藝人，以《You’re Under Arrest》這首 ポップ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《You’re Under Arrest》屬於 ポップ 曲風，是 ILLIT 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6823491796",
+      "name": "Hey, Somebody",
+      "artist": "XIAOJUN",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/c9/c4/91c9c4a2-75ea-eb60-5899-9ede50ac5e70/888735957390.png/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/hey-somebody/6823491795?i=6823491796&uo=2",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-10-27T03:45:49.886Z",
+      "insight": {
+        "歌手簡介": "XIAOJUN 是這次登上 iTunes 日本單曲榜的藝人，以《Hey, Somebody》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Hey, Somebody》屬於 K-Pop 曲風，是 XIAOJUN 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6819134915",
       "name": "チェックメイト",
       "artist": "Travis Japan",
