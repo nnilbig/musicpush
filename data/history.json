@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "6825198745",
+      "name": "君がいる",
+      "artist": "U-KNOW",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/bd/1d/a1bd1d28-b14e-af2b-15fb-dbaab7d04f6b/ANTCD-A0000021535.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E5%90%9B%E3%81%8C%E3%81%84%E3%82%8B/6825198742?i=6825198745&uo=2",
+      "releaseDate": "2026-10-26T00:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-28T04:02:17.819Z",
+      "insight": {
+        "歌手簡介": "U-KNOW 是這次登上 iTunes 日本單曲榜的藝人，以《君がいる》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《君がいる》於 2026/10/26 發行，屬於 J-Pop 曲風，是 U-KNOW 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6823156005",
+      "name": "娑婆堕罵 -Shabadaba-",
+      "artist": "RADWIMPS",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/c7/57/3cc7576c-cd59-81b8-561a-8bb9797c93ff/26UM1IM26487.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E5%A8%91%E5%A9%86%E5%A0%95%E7%BD%B5-shabadaba/6823156003?i=6823156005&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-10-28T04:02:17.819Z",
+      "insight": {
+        "歌手簡介": "RADWIMPS 是這次登上 iTunes 日本單曲榜的藝人，以《娑婆堕罵 -Shabadaba-》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《娑婆堕罵 -Shabadaba-》屬於 ロック 曲風，是 RADWIMPS 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6815901441",
+      "name": "繚乱縁舞",
+      "artist": "トウカイテイオー (CV. Machico), ダイワスカーレット (CV. 木村千咲), シンボリルドルフ (CV. 田所あずさ), タマモクロス (CV. 大空直美), マヤノトップガン (CV. 星谷美緒), ユキノビジン (CV. 山本希望), イナリワン (CV. 井上遥乃), カワカミプリンセス (CV. 高橋花林), ゴールドシチー (CV. 香坂さき), ノーリーズン (CV. 河野ひより), ブラストワンピース (CV. 紫月杏朱彩), 吾妻 (CV. 三石琴乃) & ウマ娘 プリティーダービー",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/04/71/0f047180-6e99-363f-7419-5f81a2c3696a/4540774750658.png/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E7%B9%9A%E4%B9%B1%E7%B8%81%E8%88%9E/6815901440?i=6815901441&uo=2",
+      "releaseDate": "2026-10-27T05:00:00-07:00",
+      "genre": "アニメ",
+      "recommendedAt": "2026-10-28T04:02:17.819Z",
+      "insight": {
+        "歌手簡介": "トウカイテイオー (CV. Machico), ダイワスカーレット (CV. 木村千咲), シンボリルドルフ (CV. 田所あずさ), タマモクロス (CV. 大空直美), マヤノトップガン (CV. 星谷美緒), ユキノビジン (CV. 山本希望), イナリワン (CV. 井上遥乃), カワカミプリンセス (CV. 高橋花林), ゴールドシチー (CV. 香坂さき), ノーリーズン (CV. 河野ひより), ブラストワンピース (CV. 紫月杏朱彩), 吾妻 (CV. 三石琴乃) & ウマ娘 プリティーダービー 是這次登上 iTunes 日本單曲榜的藝人，以《繚乱縁舞》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《繚乱縁舞》於 2026/10/27 發行，屬於 アニメ 曲風，是 トウカイテイオー (CV. Machico), ダイワスカーレット (CV. 木村千咲), シンボリルドルフ (CV. 田所あずさ), タマモクロス (CV. 大空直美), マヤノトップガン (CV. 星谷美緒), ユキノビジン (CV. 山本希望), イナリワン (CV. 井上遥乃), カワカミプリンセス (CV. 高橋花林), ゴールドシチー (CV. 香坂さき), ノーリーズン (CV. 河野ひより), ブラストワンピース (CV. 紫月杏朱彩), 吾妻 (CV. 三石琴乃) & ウマ娘 プリティーダービー 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6824399888",
       "name": "ザッツ!超常",
       "artist": "M!LK",
