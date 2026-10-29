@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "6822658971",
+      "name": "Slidin",
+      "artist": "HANA",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/32/f2/e032f2c8-74cd-fce2-77c9-419adbb9091e/4547366862294.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/slidin/6822658970?i=6822658971&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-29T04:26:12.796Z",
+      "insight": {
+        "歌手簡介": "HANA 是這次登上 iTunes 日本單曲榜的藝人，以《Slidin》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Slidin》屬於 J-Pop 曲風，是 HANA 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6822591762",
+      "name": "SPIN",
+      "artist": "BAND-MAID",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/ea/0f/3eea0fda-7a0f-1712-3b3e-a63df249f994/29481.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/spin/6822591760?i=6822591762&uo=2",
+      "releaseDate": "2026-10-28T05:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-10-29T04:26:12.796Z",
+      "insight": {
+        "歌手簡介": "BAND-MAID 是這次登上 iTunes 日本單曲榜的藝人，以《SPIN》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《SPIN》於 2026/10/28 發行，屬於 ロック 曲風，是 BAND-MAID 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6819589412",
+      "name": "見上げてごらん夜の星を",
+      "artist": "新しい学校のリーダーズ",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/e9/92/f2e992bc-6148-7e28-ec0a-314162db173b/4545933144439.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E8%A6%8B%E4%B8%8A%E3%81%92%E3%81%A6%E3%81%94%E3%82%89%E3%82%93%E5%A4%9C%E3%81%AE%E6%98%9F%E3%82%92/6819588609?i=6819589412&uo=2",
+      "releaseDate": "2026-10-28T05:00:00-07:00",
+      "genre": "サウンドトラック",
+      "recommendedAt": "2026-10-29T04:26:12.796Z",
+      "insight": {
+        "歌手簡介": "新しい学校のリーダーズ 是這次登上 iTunes 日本單曲榜的藝人，以《見上げてごらん夜の星を》這首 サウンドトラック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《見上げてごらん夜の星を》於 2026/10/28 發行，屬於 サウンドトラック 曲風，是 新しい学校のリーダーズ 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6825198745",
       "name": "君がいる",
       "artist": "U-KNOW",
