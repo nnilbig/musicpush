@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "6816815693",
+      "name": "Slam Dunk",
+      "artist": "STARGLOW",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/db/dd/c0dbdd5f-a6f7-4572-c2f9-47e29412f167/ANTCD-A0000021343.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/slam-dunk/6816815692?i=6816815693&uo=2",
+      "releaseDate": "2026-10-26T05:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-10-30T04:26:01.886Z",
+      "insight": {
+        "歌手簡介": "STARGLOW 是這次登上 iTunes 日本單曲榜的藝人，以《Slam Dunk》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Slam Dunk》於 2026/10/26 發行，屬於 J-Pop 曲風，是 STARGLOW 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6824513256",
+      "name": "GENTO (with Kento Nakajima)",
+      "artist": "SB19 & 中島健人",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/14/e1/4414e1e0-1e8b-d056-062f-932adf771b98/196874906026.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/gento-with-kento-nakajima/6824513097?i=6824513256&uo=2",
+      "releaseDate": "2026-09-11T05:00:00-07:00",
+      "genre": "ポップ",
+      "recommendedAt": "2026-10-30T04:26:01.886Z",
+      "insight": {
+        "歌手簡介": "SB19 & 中島健人 是這次登上 iTunes 日本單曲榜的藝人，以《GENTO (with Kento Nakajima)》這首 ポップ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《GENTO (with Kento Nakajima)》於 2026/9/11 發行，屬於 ポップ 曲風，是 SB19 & 中島健人 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6824719545",
+      "name": "Fever",
+      "artist": "ONE OK ROCK",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/14/ae/2314ae9c-8465-1664-8304-fe8afdbae994/075679550842.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/fever/6824719544?i=6824719545&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-10-30T04:26:01.886Z",
+      "insight": {
+        "歌手簡介": "ONE OK ROCK 是這次登上 iTunes 日本單曲榜的藝人，以《Fever》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Fever》屬於 ロック 曲風，是 ONE OK ROCK 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6822658971",
       "name": "Slidin",
       "artist": "HANA",
