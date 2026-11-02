@@ -1,6 +1,32 @@
 {
   "entries": [
     {
+      "id": "6817729829",
+      "name": "NOW U KNOW",
+      "artist": "BE:FIRST",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f2/36/edf236d5-4773-2ad5-94ce-42f1f400b296/ANTCD-A0000020993.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/now-u-know/6817729828?i=6817729829&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-11-02T04:30:05.769Z",
+      "insight": {
+        "歌手簡介": "BE:FIRST 是這次登上 iTunes 日本單曲榜的藝人，以《NOW U KNOW》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《NOW U KNOW》屬於 J-Pop 曲風，是 BE:FIRST 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6826973710",
+      "name": "キツネノボタン",
+      "artist": "スピッツ",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/7c/a0/c07ca0fc-dec2-e520-df39-b731cba69dbd/26UM1IM35069.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%82%AD%E3%83%84%E3%83%8D%E3%83%8E%E3%83%9C%E3%82%BF%E3%83%B3/6826973471?i=6826973710&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-11-02T04:30:05.769Z",
+      "insight": {
+        "歌手簡介": "スピッツ 是這次登上 iTunes 日本單曲榜的藝人，以《キツネノボタン》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《キツネノボタン》屬於 ロック 曲風，是 スピッツ 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6823080588",
       "name": "TRUE",
       "artist": "Hey! Say! JUMP",
