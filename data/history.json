@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "id": "6826137737",
+      "name": "いけても無理でも",
+      "artist": "新しい地図 join ミュージック",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/e2/18/b6e21827-a48b-45b3-f9ba-33a7525d3db0/TFDS-01425.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%81%84%E3%81%91%E3%81%A6%E3%82%82%E7%84%A1%E7%90%86%E3%81%A7%E3%82%82/6826137735?i=6826137737&uo=2",
+      "releaseDate": "2026-11-02T00:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-11-03T05:24:19.169Z",
+      "insight": {
+        "歌手簡介": "新しい地図 join ミュージック 是這次登上 iTunes 日本單曲榜的藝人，以《いけても無理でも》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《いけても無理でも》於 2026/11/2 發行，屬於 J-Pop 曲風，是 新しい地図 join ミュージック 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6827005109",
+      "name": "SHOCK",
+      "artist": "TREASURE",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/7a/5b/5a7a5be6-49b9-ec09-e879-843f71a48fd9/ANTCD-A0000021595.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/shock/6827005108?i=6827005109&uo=2",
+      "releaseDate": "2026-11-02T04:00:00-07:00",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-11-03T05:24:19.169Z",
+      "insight": {
+        "歌手簡介": "TREASURE 是這次登上 iTunes 日本單曲榜的藝人，以《SHOCK》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《SHOCK》於 2026/11/2 發行，屬於 K-Pop 曲風，是 TREASURE 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6827867527",
+      "name": "FOREVER (Cover)",
+      "artist": "Rockon Social Club",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/8c/c4/e18cc429-57d6-976c-2cbc-d38fb041c630/4550796024804_cover.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/forever-cover/6827867525?i=6827867527&uo=2",
+      "releaseDate": "2026-11-02T00:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-11-03T05:24:19.169Z",
+      "insight": {
+        "歌手簡介": "Rockon Social Club 是這次登上 iTunes 日本單曲榜的藝人，以《FOREVER (Cover)》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《FOREVER (Cover)》於 2026/11/2 發行，屬於 ロック 曲風，是 Rockon Social Club 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6817729829",
       "name": "NOW U KNOW",
       "artist": "BE:FIRST",
