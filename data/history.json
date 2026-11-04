@@ -1,6 +1,45 @@
 {
   "entries": [
     {
+      "id": "6822204112",
+      "name": "One Shot (『仮面ライダーマイス』主題歌)",
+      "artist": "THE RAMPAGE from EXILE TRIBE",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/a1/24/29a1244d-9060-a4b3-23d6-4798cf588dd0/ANTCD-A0000021424.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/one-shot-%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%83%9E%E3%82%A4%E3%82%B9-%E4%B8%BB%E9%A1%8C%E6%AD%8C/6822204111?i=6822204112&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-11-04T04:53:10.096Z",
+      "insight": {
+        "歌手簡介": "THE RAMPAGE from EXILE TRIBE 是這次登上 iTunes 日本單曲榜的藝人，以《One Shot (『仮面ライダーマイス』主題歌)》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《One Shot (『仮面ライダーマイス』主題歌)》屬於 J-Pop 曲風，是 THE RAMPAGE from EXILE TRIBE 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6822675886",
+      "name": "モザイク",
+      "artist": "電気グルーヴ",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/50/37/0b50375e-96af-9b86-140b-e16468e72167/4550795604847_cover.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF/6822675610?i=6822675886&uo=2",
+      "genre": "エレクトロニック",
+      "recommendedAt": "2026-11-04T04:53:10.096Z",
+      "insight": {
+        "歌手簡介": "電気グルーヴ 是這次登上 iTunes 日本單曲榜的藝人，以《モザイク》這首 エレクトロニック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《モザイク》屬於 エレクトロニック 曲風，是 電気グルーヴ 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6825200810",
+      "name": "アシデマトイ",
+      "artist": "TK from 凛として時雨",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/e9/9d/47e99d2a-85e6-a465-5da6-859ae6379d45/4547366862546.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%82%A2%E3%82%B7%E3%83%87%E3%83%9E%E3%83%88%E3%82%A4/6825200809?i=6825200810&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-11-04T04:53:10.096Z",
+      "insight": {
+        "歌手簡介": "TK from 凛として時雨 是這次登上 iTunes 日本單曲榜的藝人，以《アシデマトイ》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《アシデマトイ》屬於 ロック 曲風，是 TK from 凛として時雨 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6826137737",
       "name": "いけても無理でも",
       "artist": "新しい地図 join ミュージック",
