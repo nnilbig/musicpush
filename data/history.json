@@ -1,6 +1,45 @@
 {
   "entries": [
     {
+      "id": "6819551082",
+      "name": "DEPENDS",
+      "artist": "XG",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/85/52/84855254-f857-8155-a5c4-8520d313663e/ANTCD-A0000021223.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/depends/6819551081?i=6819551082&uo=2",
+      "genre": "ポップ",
+      "recommendedAt": "2026-11-06T05:10:30.247Z",
+      "insight": {
+        "歌手簡介": "XG 是這次登上 iTunes 日本單曲榜的藝人，以《DEPENDS》這首 ポップ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《DEPENDS》屬於 ポップ 曲風，是 XG 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6819551083",
+      "name": "S.A.D",
+      "artist": "XG",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/85/52/84855254-f857-8155-a5c4-8520d313663e/ANTCD-A0000021223.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/s-a-d/6819551081?i=6819551083&uo=2",
+      "genre": "R&B／ソウル",
+      "recommendedAt": "2026-11-06T05:10:30.247Z",
+      "insight": {
+        "歌手簡介": "XG 是這次登上 iTunes 日本單曲榜的藝人，以《S.A.D》這首 R&B／ソウル 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《S.A.D》屬於 R&B／ソウル 曲風，是 XG 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6828697038",
+      "name": "シンカ",
+      "artist": "Ado",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/55/81/0d55816f-02cc-ab41-235d-8371d803dfc3/26UM1IM35880.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%82%B7%E3%83%B3%E3%82%AB/6828696885?i=6828697038&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-11-06T05:10:30.247Z",
+      "insight": {
+        "歌手簡介": "Ado 是這次登上 iTunes 日本單曲榜的藝人，以《シンカ》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《シンカ》屬於 J-Pop 曲風，是 Ado 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6826104947",
       "name": "ダイヤモンドカット",
       "artist": "新しい地図 join ミュージック",
