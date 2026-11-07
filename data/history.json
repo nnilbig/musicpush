@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "6820842358",
+      "name": "Twinkle love",
+      "artist": "なにわ男子",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/d6/1a/fdd61a57-4638-9422-17fd-12eba289be32/885288778328.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/twinkle-love/6820842357?i=6820842358&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-11-07T04:42:05.872Z",
+      "insight": {
+        "歌手簡介": "なにわ男子 是這次登上 iTunes 日本單曲榜的藝人，以《Twinkle love》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Twinkle love》屬於 J-Pop 曲風，是 なにわ男子 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "1451684198",
+      "name": "冬の花",
+      "artist": "宮本浩次",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0c/38/bb/0c38bb7e-551a-e3ce-284c-2bd22d5b41ef/00602577434396.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E5%86%AC%E3%81%AE%E8%8A%B1/1451684197?i=1451684198&uo=2",
+      "releaseDate": "2019-02-19T04:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-11-07T04:42:05.872Z",
+      "insight": {
+        "歌手簡介": "宮本浩次 是這次登上 iTunes 日本單曲榜的藝人，以《冬の花》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《冬の花》於 2019/2/19 發行，屬於 ロック 曲風，是 宮本浩次 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6810161658",
+      "name": "Godzilla-0.0 Godzilla Suite",
+      "artist": "佐藤直紀",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/b0/92/e9b09201-eea5-ee1b-80e9-8fe1ac7bba35/4545933136489.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/godzilla-0-0-godzilla-suite/6810161057?i=6810161658&uo=2",
+      "releaseDate": "2026-11-04T04:00:00-07:00",
+      "genre": "サウンドトラック",
+      "recommendedAt": "2026-11-07T04:42:05.872Z",
+      "insight": {
+        "歌手簡介": "佐藤直紀 是這次登上 iTunes 日本單曲榜的藝人，以《Godzilla-0.0 Godzilla Suite》這首 サウンドトラック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Godzilla-0.0 Godzilla Suite》於 2026/11/4 發行，屬於 サウンドトラック 曲風，是 佐藤直紀 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6819551082",
       "name": "DEPENDS",
       "artist": "XG",
