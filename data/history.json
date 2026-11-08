@@ -1,6 +1,46 @@
 {
   "entries": [
     {
+      "id": "6828325245",
+      "name": "華麗なるリベンジャー",
+      "artist": "Juice=Juice",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/78/b2/5078b2a8-9365-55c7-d632-7eaa8d60afc9/UFDL-1608.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E8%8F%AF%E9%BA%97%E3%81%AA%E3%82%8B%E3%83%AA%E3%83%99%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC/6828325244?i=6828325245&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-11-08T04:30:12.811Z",
+      "insight": {
+        "歌手簡介": "Juice=Juice 是這次登上 iTunes 日本單曲榜的藝人，以《華麗なるリベンジャー》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《華麗なるリベンジャー》屬於 J-Pop 曲風，是 Juice=Juice 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6828762272",
+      "name": "慟哭のコンチェルト",
+      "artist": "初星学園, 月村手毬 & 秦谷美鈴",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/b2/13/b5b21374-c1d0-03d7-c3c6-4853937ffaae/PA00242658_0_258199_jacket.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E6%85%9F%E5%93%AD%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%81%E3%82%A7%E3%83%AB%E3%83%88/6828762268?i=6828762272&uo=2",
+      "genre": "アニメ",
+      "recommendedAt": "2026-11-08T04:30:12.811Z",
+      "insight": {
+        "歌手簡介": "初星学園, 月村手毬 & 秦谷美鈴 是這次登上 iTunes 日本單曲榜的藝人，以《慟哭のコンチェルト》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《慟哭のコンチェルト》屬於 アニメ 曲風，是 初星学園, 月村手毬 & 秦谷美鈴 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6825210773",
+      "name": "TIME ZONE",
+      "artist": "男闘呼組",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/ab/ff/58abff6a-bd8a-c319-c385-f92bd7b20bda/4547366860313.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/time-zone/6825210527?i=6825210773&uo=2",
+      "releaseDate": "1989-02-28T04:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-11-08T04:30:12.811Z",
+      "insight": {
+        "歌手簡介": "男闘呼組 是這次登上 iTunes 日本單曲榜的藝人，以《TIME ZONE》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《TIME ZONE》於 1989/2/28 發行，屬於 ロック 曲風，是 男闘呼組 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6820842358",
       "name": "Twinkle love",
       "artist": "なにわ男子",
