@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "id": "6821872185",
+      "name": "Period",
+      "artist": "IMP.",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/50/3f/44503f36-ef04-8aa6-f7c0-036b2c2066df/ticket.drfjldqg.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/period/6821872184?i=6821872185&uo=2",
+      "releaseDate": "2026-11-09T04:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-11-10T05:58:26.822Z",
+      "insight": {
+        "歌手簡介": "IMP. 是這次登上 iTunes 日本單曲榜的藝人，以《Period》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Period》於 2026/11/9 發行，屬於 J-Pop 曲風，是 IMP. 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6824822236",
+      "name": "Qarabağ Şikəstəsi in VIVANT",
+      "artist": "Alim Qasımov, Fərqanə Qasımova & 千住明",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/51/96/88519638-454c-dc60-20d2-e5629ee77094/NS-2911.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/qaraba%C4%9F-%C5%9Fik%C9%99st%C9%99si-in-vivant/6824822235?i=6824822236&uo=2",
+      "releaseDate": "2026-11-09T04:00:00-07:00",
+      "genre": "サウンドトラック",
+      "recommendedAt": "2026-11-10T05:58:26.822Z",
+      "insight": {
+        "歌手簡介": "Alim Qasımov, Fərqanə Qasımova & 千住明 是這次登上 iTunes 日本單曲榜的藝人，以《Qarabağ Şikəstəsi in VIVANT》這首 サウンドトラック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Qarabağ Şikəstəsi in VIVANT》於 2026/11/9 發行，屬於 サウンドトラック 曲風，是 Alim Qasımov, Fərqanə Qasımova & 千住明 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6829641432",
+      "name": "クロスファイア",
+      "artist": "初星学園, 花海咲季 & 花海佑芽",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/4c/41/084c41e8-00e5-05bf-de89-b6abf328ddcd/PA00241405_0_257894_jacket.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2/6829640973?i=6829641432&uo=2",
+      "releaseDate": "2026-11-09T00:00:00-07:00",
+      "genre": "アニメ",
+      "recommendedAt": "2026-11-10T05:58:26.822Z",
+      "insight": {
+        "歌手簡介": "初星学園, 花海咲季 & 花海佑芽 是這次登上 iTunes 日本單曲榜的藝人，以《クロスファイア》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《クロスファイア》於 2026/11/9 發行，屬於 アニメ 曲風，是 初星学園, 花海咲季 & 花海佑芽 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6829772605",
       "name": "SUIATSU",
       "artist": "Stray Kids",
