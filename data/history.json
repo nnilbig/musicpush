@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "6829621678",
+      "name": "La la la",
+      "artist": "Kis-My-Ft2",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/da/0a/1ada0a10-4397-4493-0eff-ce0e8050ec29/ANTCD-A0000021654.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/la-la-la/6829621677?i=6829621678&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-11-11T04:45:47.305Z",
+      "insight": {
+        "歌手簡介": "Kis-My-Ft2 是這次登上 iTunes 日本單曲榜的藝人，以《La la la》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《La la la》屬於 J-Pop 曲風，是 Kis-My-Ft2 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6828257363",
+      "name": "FANTASTIC GATHERING!",
+      "artist": "初星学園, 藤田ことね & 十王星南",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/d2/ec/17d2ec6d-4375-4aff-5c63-564840a7df0a/PA00241404_0_257891_jacket.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/fantastic-gathering/6828257360?i=6828257363&uo=2",
+      "releaseDate": "2026-11-09T04:00:00-07:00",
+      "genre": "アニメ",
+      "recommendedAt": "2026-11-11T04:45:47.305Z",
+      "insight": {
+        "歌手簡介": "初星学園, 藤田ことね & 十王星南 是這次登上 iTunes 日本單曲榜的藝人，以《FANTASTIC GATHERING!》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《FANTASTIC GATHERING!》於 2026/11/9 發行，屬於 アニメ 曲風，是 初星学園, 藤田ことね & 十王星南 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6830451587",
+      "name": "Running",
+      "artist": "CNBLUE",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/07/0e/af070ef1-f1c1-93ed-28ff-c39e8dcd78f5/8800388627927_cover.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/running/6830451586?i=6830451587&uo=2",
+      "releaseDate": "2026-11-09T04:00:00-07:00",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-11-11T04:45:47.305Z",
+      "insight": {
+        "歌手簡介": "CNBLUE 是這次登上 iTunes 日本單曲榜的藝人，以《Running》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Running》於 2026/11/9 發行，屬於 K-Pop 曲風，是 CNBLUE 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6821872185",
       "name": "Period",
       "artist": "IMP.",
