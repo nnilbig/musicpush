@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "id": "6831510081",
+      "name": "KILLA",
+      "artist": "YOASOBI",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/6d/6e/ee6d6e99-ffc6-d4b6-9b20-58dc7a092072/711641064473.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/killa/6831510043?i=6831510081&uo=2",
+      "releaseDate": "2026-11-11T04:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-11-12T05:48:19.604Z",
+      "insight": {
+        "歌手簡介": "YOASOBI 是這次登上 iTunes 日本單曲榜的藝人，以《KILLA》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《KILLA》於 2026/11/11 發行，屬於 J-Pop 曲風，是 YOASOBI 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6830444439",
+      "name": "Darling",
+      "artist": "D.O.",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/01/e1/9d01e1f4-c9b7-89c8-58be-caa84f4c7a34/191953593371.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/darling/6830444438?i=6830444439&uo=2",
+      "releaseDate": "2026-11-11T04:00:00-07:00",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-11-12T05:48:19.604Z",
+      "insight": {
+        "歌手簡介": "D.O. 是這次登上 iTunes 日本單曲榜的藝人，以《Darling》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Darling》於 2026/11/11 發行，屬於 K-Pop 曲風，是 D.O. 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "1701389548",
+      "name": "Suit on the Sands",
+      "artist": "斎木 達彦",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/04/02/2d/04022dc2-0a7f-d853-75f7-471e59b5afb2/UZCL-2271_72.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/suit-on-the-sands/1701389290?i=1701389548&uo=2",
+      "releaseDate": "2023-09-06T05:00:00-07:00",
+      "genre": "サウンドトラック",
+      "recommendedAt": "2026-11-12T05:48:19.604Z",
+      "insight": {
+        "歌手簡介": "斎木 達彦 是這次登上 iTunes 日本單曲榜的藝人，以《Suit on the Sands》這首 サウンドトラック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Suit on the Sands》於 2023/9/6 發行，屬於 サウンドトラック 曲風，是 斎木 達彦 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6829621678",
       "name": "La la la",
       "artist": "Kis-My-Ft2",
