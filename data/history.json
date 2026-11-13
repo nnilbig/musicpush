@@ -1,6 +1,33 @@
 {
   "entries": [
     {
+      "id": "6831144662",
+      "name": "超☆HENSHIN",
+      "artist": "中島健人",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/9e/22/609e228e-aa4e-4755-78fb-cf4ac5bca711/4547366864915.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E8%B6%85-henshin/6831144638?i=6831144662&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-11-13T05:07:51.768Z",
+      "insight": {
+        "歌手簡介": "中島健人 是這次登上 iTunes 日本單曲榜的藝人，以《超☆HENSHIN》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《超☆HENSHIN》屬於 J-Pop 曲風，是 中島健人 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6832522628",
+      "name": "無中に有を生ず",
+      "artist": "HOYO-MiX & 當山 みれい",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/52/85/b75285c0-e810-b814-a943-8376b3159b0c/cover.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E7%84%A1%E4%B8%AD%E3%81%AB%E6%9C%89%E3%82%92%E7%94%9F%E3%81%9A/6832522621?i=6832522628&uo=2",
+      "releaseDate": "2026-11-12T00:00:00-07:00",
+      "genre": "サウンドトラック",
+      "recommendedAt": "2026-11-13T05:07:51.768Z",
+      "insight": {
+        "歌手簡介": "HOYO-MiX & 當山 みれい 是這次登上 iTunes 日本單曲榜的藝人，以《無中に有を生ず》這首 サウンドトラック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《無中に有を生ず》於 2026/11/12 發行，屬於 サウンドトラック 曲風，是 HOYO-MiX & 當山 みれい 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6831510081",
       "name": "KILLA",
       "artist": "YOASOBI",
