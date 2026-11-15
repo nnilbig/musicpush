@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "id": "6825156040",
+      "name": "Beyond the Night",
+      "artist": "TeddyLoid, 佐倉綾音 & 井上和",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/d1/b8/3dd1b8fe-0ed2-18b8-d211-61b230b6f29f/711641008750.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/beyond-the-night/6825156036?i=6825156040&uo=2",
+      "releaseDate": "2026-11-11T04:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-11-15T04:51:48.171Z",
+      "insight": {
+        "歌手簡介": "TeddyLoid, 佐倉綾音 & 井上和 是這次登上 iTunes 日本單曲榜的藝人，以《Beyond the Night》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Beyond the Night》於 2026/11/11 發行，屬於 J-Pop 曲風，是 TeddyLoid, 佐倉綾音 & 井上和 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "1876808749",
+      "name": "地元LOVE feat. 後藤真希",
+      "artist": "ZORN",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/60/95/ee60950a-703f-d4a6-f10f-261c6ea90de3/4500000076648.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E5%9C%B0%E5%85%83love-feat-%E5%BE%8C%E8%97%A4%E7%9C%9F%E5%B8%8C/1876808748?i=1876808749&uo=2",
+      "releaseDate": "2026-02-17T04:00:00-07:00",
+      "genre": "ヒップホップ／ラップ",
+      "recommendedAt": "2026-11-15T04:51:48.171Z",
+      "insight": {
+        "歌手簡介": "ZORN 是這次登上 iTunes 日本單曲榜的藝人，以《地元LOVE feat. 後藤真希》這首 ヒップホップ／ラップ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《地元LOVE feat. 後藤真希》於 2026/2/17 發行，屬於 ヒップホップ／ラップ 曲風，是 ZORN 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6823513998",
+      "name": "花束 サンボマスターとアイナ・ジ・エンド (feat. アイナ・ジ・エンド)",
+      "artist": "サンボマスター",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/7b/95/547b95ff-224a-62ac-47b3-09f28487e8cb/VEATP-45959.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E8%8A%B1%E6%9D%9F-%E3%82%B5%E3%83%B3%E3%83%9C%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%A8%E3%82%A2%E3%82%A4%E3%83%8A-%E3%82%B8-%E3%82%A8%E3%83%B3%E3%83%89-feat-%E3%82%A2%E3%82%A4%E3%83%8A-%E3%82%B8-%E3%82%A8%E3%83%B3%E3%83%89/6823513996?i=6823513998&uo=2",
+      "releaseDate": "2026-11-10T04:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-11-15T04:51:48.171Z",
+      "insight": {
+        "歌手簡介": "サンボマスター 是這次登上 iTunes 日本單曲榜的藝人，以《花束 サンボマスターとアイナ・ジ・エンド (feat. アイナ・ジ・エンド)》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《花束 サンボマスターとアイナ・ジ・エンド (feat. アイナ・ジ・エンド)》於 2026/11/10 發行，屬於 ロック 曲風，是 サンボマスター 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6832934655",
       "name": "STAR feat. アイナ・ジ・エンド, AKLO",
       "artist": "ZORN",
