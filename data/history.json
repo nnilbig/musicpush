@@ -1,6 +1,33 @@
 {
   "entries": [
     {
+      "id": "6826968671",
+      "name": "/SLASH",
+      "artist": "ROF-MAO",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/70/86/fc708689-14f0-d566-5202-e6499912ce7a/26UM1IM29256.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/slash/6826968661?i=6826968671&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-11-16T04:48:22.120Z",
+      "insight": {
+        "歌手簡介": "ROF-MAO 是這次登上 iTunes 日本單曲榜的藝人，以《/SLASH》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《/SLASH》屬於 J-Pop 曲風，是 ROF-MAO 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "1726307099",
+      "name": "正解",
+      "artist": "RADWIMPS",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/aa/f1/62/aaf16249-0d92-763a-5a78-65ea3ac568d2/24UMGIM04362.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E6%AD%A3%E8%A7%A3/1726307096?i=1726307099&uo=2",
+      "releaseDate": "2024-01-24T04:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-11-16T04:48:22.120Z",
+      "insight": {
+        "歌手簡介": "RADWIMPS 是這次登上 iTunes 日本單曲榜的藝人，以《正解》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《正解》於 2024/1/24 發行，屬於 ロック 曲風，是 RADWIMPS 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6825156040",
       "name": "Beyond the Night",
       "artist": "TeddyLoid, 佐倉綾音 & 井上和",
