@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "6831421656",
+      "name": "神々の襷(たすき)",
+      "artist": "桑田佳祐",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/6e/37/566e3730-d880-2bae-d864-4376a619dc49/VEATP-46105.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E7%A5%9E%E3%80%85%E3%81%AE%E8%A5%B7-%E3%81%9F%E3%81%99%E3%81%8D/6831421655?i=6831421656&uo=2",
+      "releaseDate": "2026-11-16T04:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-11-17T06:36:38.089Z",
+      "insight": {
+        "歌手簡介": "桑田佳祐 是這次登上 iTunes 日本單曲榜的藝人，以《神々の襷(たすき)》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《神々の襷(たすき)》於 2026/11/16 發行，屬於 J-Pop 曲風，是 桑田佳祐 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6833387074",
+      "name": "Angel Bite",
+      "artist": "TOMORROW X TOGETHER",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/25/85/6b25852a-ba0e-cd2f-e09c-98dd05f97d9a/26UM1IM45979.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/angel-bite/6833387063?i=6833387074&uo=2",
+      "releaseDate": "2026-11-16T04:00:00-07:00",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-11-17T06:36:38.089Z",
+      "insight": {
+        "歌手簡介": "TOMORROW X TOGETHER 是這次登上 iTunes 日本單曲榜的藝人，以《Angel Bite》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Angel Bite》於 2026/11/16 發行，屬於 K-Pop 曲風，是 TOMORROW X TOGETHER 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6830446007",
+      "name": "メタモルフォーゼ",
+      "artist": "初星学園 & 氷渡香名江",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/bb/cd/7abbcd8a-5153-17f1-6c5d-f3785430f89a/PA00242657_0_258297_jacket.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%83%A1%E3%82%BF%E3%83%A2%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%BC/6830445999?i=6830446007&uo=2",
+      "genre": "アニメ",
+      "recommendedAt": "2026-11-17T06:36:38.089Z",
+      "insight": {
+        "歌手簡介": "初星学園 & 氷渡香名江 是這次登上 iTunes 日本單曲榜的藝人，以《メタモルフォーゼ》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《メタモルフォーゼ》屬於 アニメ 曲風，是 初星学園 & 氷渡香名江 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6826968671",
       "name": "/SLASH",
       "artist": "ROF-MAO",
