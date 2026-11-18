@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "id": "6815571781",
+      "name": "IGNITE",
+      "artist": "JO1",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/00/c1/b100c19c-54cc-e51d-bcee-911c7d43d737/4582109079263.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/ignite/6815571780?i=6815571781&uo=2",
+      "releaseDate": "2026-09-07T00:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-11-18T05:56:34.588Z",
+      "insight": {
+        "歌手簡介": "JO1 是這次登上 iTunes 日本單曲榜的藝人，以《IGNITE》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《IGNITE》於 2026/9/7 發行，屬於 J-Pop 曲風，是 JO1 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6835341387",
+      "name": "NO RETURN",
+      "artist": "I.N",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/56/5d/9d565d4d-82d7-d1a7-e4e0-5b7ff730fe27/8809928956121.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/no-return/6835341386?i=6835341387&uo=2",
+      "releaseDate": "2026-11-17T00:00:00-07:00",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-11-18T05:56:34.588Z",
+      "insight": {
+        "歌手簡介": "I.N 是這次登上 iTunes 日本單曲榜的藝人，以《NO RETURN》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《NO RETURN》於 2026/11/17 發行，屬於 K-Pop 曲風，是 I.N 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6828400445",
+      "name": "PHOENIX (feat. Yuriko Kaida)",
+      "artist": "スパイラル・ラダー",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/22/6d/ba226d3b-7a8d-339b-10b5-83d498b6dc54/4534530167231.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/phoenix-feat-yuriko-kaida/6828400442?i=6828400445&uo=2",
+      "releaseDate": "2026-11-17T04:00:00-07:00",
+      "genre": "アニメ",
+      "recommendedAt": "2026-11-18T05:56:34.588Z",
+      "insight": {
+        "歌手簡介": "スパイラル・ラダー 是這次登上 iTunes 日本單曲榜的藝人，以《PHOENIX (feat. Yuriko Kaida)》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《PHOENIX (feat. Yuriko Kaida)》於 2026/11/17 發行，屬於 アニメ 曲風，是 スパイラル・ラダー 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6831421656",
       "name": "神々の襷(たすき)",
       "artist": "桑田佳祐",
