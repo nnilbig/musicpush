@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "id": "1537090638",
+      "name": "木綿のハンカチーフ",
+      "artist": "太田裕美",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2d/ea/f7/2deaf71a-29c4-4065-ba28-64544c613022/jacket_MHXX02368B00Z_550.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E6%9C%A8%E7%B6%BF%E3%81%AE%E3%83%8F%E3%83%B3%E3%82%AB%E3%83%81%E3%83%BC%E3%83%95/1537090633?i=1537090638&uo=2",
+      "releaseDate": "1975-12-21T04:00:00-07:00",
+      "genre": "歌謡曲",
+      "recommendedAt": "2026-11-19T05:56:54.974Z",
+      "insight": {
+        "歌手簡介": "太田裕美 是這次登上 iTunes 日本單曲榜的藝人，以《木綿のハンカチーフ》這首 歌謡曲 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《木綿のハンカチーフ》於 1975/12/21 發行，屬於 歌謡曲 曲風，是 太田裕美 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6819134539",
+      "name": "POP STAR",
+      "artist": "Travis Japan",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/da/d9/6bdad980-a723-2291-d36a-10c56cd30223/26UM1IM15358.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/pop-star/6819134538?i=6819134539&uo=2",
+      "releaseDate": "2026-11-18T04:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-11-19T05:56:54.974Z",
+      "insight": {
+        "歌手簡介": "Travis Japan 是這次登上 iTunes 日本單曲榜的藝人，以《POP STAR》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《POP STAR》於 2026/11/18 發行，屬於 J-Pop 曲風，是 Travis Japan 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6828680293",
+      "name": "HOURGLASS",
+      "artist": "乙倉悠貴 (CV: 中島由貴), 喜多見柚 (CV: 武田羅梨沙多胡), 桐生つかさ (CV: 河瀬茉希), 望月聖 (CV: 原 涼子) & 関裕美 (CV: 会沢紗弥)",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/49/66/0c496643-cd8c-f76e-0fd1-b52981447ea4/COKM-46921.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/hourglass/6828680292?i=6828680293&uo=2",
+      "releaseDate": "2026-11-18T04:00:00-07:00",
+      "genre": "アニメ",
+      "recommendedAt": "2026-11-19T05:56:54.974Z",
+      "insight": {
+        "歌手簡介": "乙倉悠貴 (CV: 中島由貴), 喜多見柚 (CV: 武田羅梨沙多胡), 桐生つかさ (CV: 河瀬茉希), 望月聖 (CV: 原 涼子) & 関裕美 (CV: 会沢紗弥) 是這次登上 iTunes 日本單曲榜的藝人，以《HOURGLASS》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《HOURGLASS》於 2026/11/18 發行，屬於 アニメ 曲風，是 乙倉悠貴 (CV: 中島由貴), 喜多見柚 (CV: 武田羅梨沙多胡), 桐生つかさ (CV: 河瀬茉希), 望月聖 (CV: 原 涼子) & 関裕美 (CV: 会沢紗弥) 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6815571781",
       "name": "IGNITE",
       "artist": "JO1",
