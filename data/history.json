@@ -1,6 +1,46 @@
 {
   "entries": [
     {
+      "id": "6833057262",
+      "name": "YUME",
+      "artist": "Alan Walker, Raul",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/3c/f8/443cf858-c712-0597-fe8a-272e3e79bb5a/ANTCD-A0000021669.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/yume/6833057260?i=6833057262&uo=2",
+      "genre": "エレクトロニック",
+      "recommendedAt": "2026-11-20T05:45:41.344Z",
+      "insight": {
+        "歌手簡介": "Alan Walker, Raul 是這次登上 iTunes 日本單曲榜的藝人，以《YUME》這首 エレクトロニック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《YUME》屬於 エレクトロニック 曲風，是 Alan Walker, Raul 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6830174266",
+      "name": "City Blue",
+      "artist": "Mili",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/de/f5/48def529-3598-2aa4-61fd-d843c524c534/4550796253129_cover.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/city-blue/6830174263?i=6830174266&uo=2",
+      "genre": "オルタナティブ",
+      "recommendedAt": "2026-11-20T05:45:41.344Z",
+      "insight": {
+        "歌手簡介": "Mili 是這次登上 iTunes 日本單曲榜的藝人，以《City Blue》這首 オルタナティブ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《City Blue》屬於 オルタナティブ 曲風，是 Mili 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "1536310224",
+      "name": "花",
+      "artist": "中 孝介",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a4/06/2d/a4062d95-170e-baf9-991a-12c0c5f9d06b/jacket_ESXX00694B00Z_550.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E8%8A%B1/1536310223?i=1536310224&uo=2",
+      "releaseDate": "2006-02-08T04:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-11-20T05:45:41.344Z",
+      "insight": {
+        "歌手簡介": "中 孝介 是這次登上 iTunes 日本單曲榜的藝人，以《花》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《花》於 2006/2/8 發行，屬於 J-Pop 曲風，是 中 孝介 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "1537090638",
       "name": "木綿のハンカチーフ",
       "artist": "太田裕美",
