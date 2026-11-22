@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "id": "6831438539",
+      "name": "名も無き詩人のように",
+      "artist": "中島 美嘉",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/bf/58/83bf5854-345f-30d0-5c10-6803a8b9c025/4547366865400.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E5%90%8D%E3%82%82%E7%84%A1%E3%81%8D%E8%A9%A9%E4%BA%BA%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB/6831438538?i=6831438539&uo=2",
+      "releaseDate": "2026-11-20T04:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-11-22T05:08:15.223Z",
+      "insight": {
+        "歌手簡介": "中島 美嘉 是這次登上 iTunes 日本單曲榜的藝人，以《名も無き詩人のように》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《名も無き詩人のように》於 2026/11/20 發行，屬於 J-Pop 曲風，是 中島 美嘉 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6835360187",
+      "name": "I Want You",
+      "artist": "ENHYPEN",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/a3/1a/91a31a7e-3775-21c1-0e67-e980f944a0dd/26UM1IM47114.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/i-want-you/6835360185?i=6835360187&uo=2",
+      "releaseDate": "2026-11-20T04:00:00-07:00",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-11-22T05:08:15.223Z",
+      "insight": {
+        "歌手簡介": "ENHYPEN 是這次登上 iTunes 日本單曲榜的藝人，以《I Want You》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《I Want You》於 2026/11/20 發行，屬於 K-Pop 曲風，是 ENHYPEN 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "1538458221",
+      "name": "星が瞬くこんな夜に 〜ゲームVer.〜",
+      "artist": "supercell",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2c/5e/4e/2c5e4e14-ca1d-f030-ad89-033f7c854d15/jacket_SRQX00650B00Z_550.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E6%98%9F%E3%81%8C%E7%9E%AC%E3%81%8F%E3%81%93%E3%82%93%E3%81%AA%E5%A4%9C%E3%81%AB-%E3%82%B2%E3%83%BC%E3%83%A0ver/1538458220?i=1538458221&uo=2",
+      "releaseDate": "2012-04-25T05:00:00-07:00",
+      "genre": "アニメ",
+      "recommendedAt": "2026-11-22T05:08:15.223Z",
+      "insight": {
+        "歌手簡介": "supercell 是這次登上 iTunes 日本單曲榜的藝人，以《星が瞬くこんな夜に 〜ゲームVer.〜》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《星が瞬くこんな夜に 〜ゲームVer.〜》於 2012/4/25 發行，屬於 アニメ 曲風，是 supercell 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6836142604",
       "name": "夜と青",
       "artist": "supercell",
