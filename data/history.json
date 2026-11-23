@@ -1,6 +1,34 @@
 {
   "entries": [
     {
+      "id": "6832918196",
+      "name": "彗星の空",
+      "artist": "SixTONES",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/c6/9f/30c69f31-f386-c33c-ca9c-84aff1a9fa59/4547366863420.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E5%BD%97%E6%98%9F%E3%81%AE%E7%A9%BA/6832917887?i=6832918196&uo=2",
+      "releaseDate": "2023-04-12T05:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-11-23T05:49:35.169Z",
+      "insight": {
+        "歌手簡介": "SixTONES 是這次登上 iTunes 日本單曲榜的藝人，以《彗星の空》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《彗星の空》於 2023/4/12 發行，屬於 J-Pop 曲風，是 SixTONES 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6830499622",
+      "name": "BABY ANGEL",
+      "artist": "NAYEON",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/9e/ef/1c9eef47-724d-8bbe-364a-9cc6db8e0d37/8809928956213.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/baby-angel/6830499621?i=6830499622&uo=2",
+      "releaseDate": "2026-11-20T04:00:00-07:00",
+      "genre": "K-Pop",
+      "recommendedAt": "2026-11-23T05:49:35.169Z",
+      "insight": {
+        "歌手簡介": "NAYEON 是這次登上 iTunes 日本單曲榜的藝人，以《BABY ANGEL》這首 K-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《BABY ANGEL》於 2026/11/20 發行，屬於 K-Pop 曲風，是 NAYEON 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6831438539",
       "name": "名も無き詩人のように",
       "artist": "中島 美嘉",
