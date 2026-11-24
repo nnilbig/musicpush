@@ -1,6 +1,32 @@
 {
   "entries": [
     {
+      "id": "6827027310",
+      "name": "SHUNSOKU",
+      "artist": "KAITO",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/5a/d5/b45ad515-fb66-78ba-e7ae-36c17d55a823/26UM1IM15664.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/shunsoku/6827027098?i=6827027310&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-11-24T08:26:52.794Z",
+      "insight": {
+        "歌手簡介": "KAITO 是這次登上 iTunes 日本單曲榜的藝人，以《SHUNSOKU》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《SHUNSOKU》屬於 J-Pop 曲風，是 KAITO 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6833820938",
+      "name": "一閃",
+      "artist": "MAN WITH A MISSION",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/27/61/d927613b-bc52-9716-5dbb-4a985d887c44/4547366869620.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E4%B8%80%E9%96%83/6833820937?i=6833820938&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-11-24T08:26:52.794Z",
+      "insight": {
+        "歌手簡介": "MAN WITH A MISSION 是這次登上 iTunes 日本單曲榜的藝人，以《一閃》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《一閃》屬於 ロック 曲風，是 MAN WITH A MISSION 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6832918196",
       "name": "彗星の空",
       "artist": "SixTONES",
