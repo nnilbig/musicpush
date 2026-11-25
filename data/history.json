@@ -1,6 +1,45 @@
 {
   "entries": [
     {
+      "id": "6831456885",
+      "name": "本当のことを言うと",
+      "artist": "timelesz",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/61/ef/d561ef45-6d60-ddcb-fcf1-0c4185e6836b/26UM1IM34019.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E6%9C%AC%E5%BD%93%E3%81%AE%E3%81%93%E3%81%A8%E3%82%92%E8%A8%80%E3%81%86%E3%81%A8/6831456884?i=6831456885&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-11-25T07:01:54.763Z",
+      "insight": {
+        "歌手簡介": "timelesz 是這次登上 iTunes 日本單曲榜的藝人，以《本当のことを言うと》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《本当のことを言うと》屬於 J-Pop 曲風，是 timelesz 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6826973479",
+      "name": "見知らぬ糸",
+      "artist": "スピッツ",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/02/33/820233c2-db70-976c-3244-1c7fc1ea0e48/26UM1IM35069.rgb.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E8%A6%8B%E7%9F%A5%E3%82%89%E3%81%AC%E7%B3%B8/6826973471?i=6826973479&uo=2",
+      "genre": "ロック",
+      "recommendedAt": "2026-11-25T07:01:54.763Z",
+      "insight": {
+        "歌手簡介": "スピッツ 是這次登上 iTunes 日本單曲榜的藝人，以《見知らぬ糸》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《見知らぬ糸》屬於 ロック 曲風，是 スピッツ 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6827106804",
+      "name": "Lucent whale",
+      "artist": "Jupiter",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/90/25/8f90257a-bb44-e0d7-f804-dcfec445c5e0/4540774247936.png/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/lucent-whale/6827106803?i=6827106804&uo=2",
+      "genre": "アニメ",
+      "recommendedAt": "2026-11-25T07:01:54.763Z",
+      "insight": {
+        "歌手簡介": "Jupiter 是這次登上 iTunes 日本單曲榜的藝人，以《Lucent whale》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Lucent whale》屬於 アニメ 曲風，是 Jupiter 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6827027310",
       "name": "SHUNSOKU",
       "artist": "KAITO",
