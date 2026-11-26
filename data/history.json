@@ -1,6 +1,47 @@
 {
   "entries": [
     {
+      "id": "6823148846",
+      "name": "Intentions",
+      "artist": "宇多田ヒカル",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/b2/1b/b4b21bae-36d7-642d-848a-e62e9d1609d0/4547366862591.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/intentions/6823148837?i=6823148846&uo=2",
+      "releaseDate": "2026-11-25T04:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-11-26T06:54:35.972Z",
+      "insight": {
+        "歌手簡介": "宇多田ヒカル 是這次登上 iTunes 日本單曲榜的藝人，以《Intentions》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Intentions》於 2026/11/25 發行，屬於 J-Pop 曲風，是 宇多田ヒカル 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6831444593",
+      "name": "存在理由 改",
+      "artist": "BUCK-TICK",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/9e/0c/729e0cef-3263-bf1c-a1d6-5e79f0f6ec30/VICL-79012.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E5%AD%98%E5%9C%A8%E7%90%86%E7%94%B1-%E6%94%B9/6831444591?i=6831444593&uo=2",
+      "releaseDate": "2026-11-25T04:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-11-26T06:54:35.972Z",
+      "insight": {
+        "歌手簡介": "BUCK-TICK 是這次登上 iTunes 日本單曲榜的藝人，以《存在理由 改》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《存在理由 改》於 2026/11/25 發行，屬於 ロック 曲風，是 BUCK-TICK 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6827106880",
+      "name": "想定心理外 -Outside Isotope-",
+      "artist": "北上麗花 (CV.平山笑美), ジュリア (CV.愛美), 桜守歌織 (CV.香里有佐), 所 恵美 (CV.藤井ゆきよ) & 松田亜利沙 (CV.村川梨衣)",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/87/87/58878710-2a34-175f-b7ee-2b9edd658a1d/4540774751549.png/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E6%83%B3%E5%AE%9A%E5%BF%83%E7%90%86%E5%A4%96-outside-isotope/6827106879?i=6827106880&uo=2",
+      "genre": "アニメ",
+      "recommendedAt": "2026-11-26T06:54:35.972Z",
+      "insight": {
+        "歌手簡介": "北上麗花 (CV.平山笑美), ジュリア (CV.愛美), 桜守歌織 (CV.香里有佐), 所 恵美 (CV.藤井ゆきよ) & 松田亜利沙 (CV.村川梨衣) 是這次登上 iTunes 日本單曲榜的藝人，以《想定心理外 -Outside Isotope-》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《想定心理外 -Outside Isotope-》屬於 アニメ 曲風，是 北上麗花 (CV.平山笑美), ジュリア (CV.愛美), 桜守歌織 (CV.香里有佐), 所 恵美 (CV.藤井ゆきよ) & 松田亜利沙 (CV.村川梨衣) 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6831456885",
       "name": "本当のことを言うと",
       "artist": "timelesz",
