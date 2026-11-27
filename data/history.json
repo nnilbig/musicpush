@@ -1,6 +1,46 @@
 {
   "entries": [
     {
+      "id": "1501837364",
+      "name": "人として",
+      "artist": "SUPER BEAVER",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2d/4a/7a/2d4a7a8c-9101-e1f7-9f93-e488f7bbd137/082705_J.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E4%BA%BA%E3%81%A8%E3%81%97%E3%81%A6/1501837152?i=1501837364&uo=2",
+      "releaseDate": "2016-06-01T05:00:00-07:00",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-11-27T06:47:05.902Z",
+      "insight": {
+        "歌手簡介": "SUPER BEAVER 是這次登上 iTunes 日本單曲榜的藝人，以《人として》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《人として》於 2016/6/1 發行，屬於 J-Pop 曲風，是 SUPER BEAVER 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6839118840",
+      "name": "ONE DAY (feat. VIGORMAN)",
+      "artist": "舐達麻",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/ac/bb/3cacbbc0-c944-944b-c91f-15ea340a3f11/4550797011360_cover.png/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/one-day-feat-vigorman/6839118558?i=6839118840&uo=2",
+      "genre": "ヒップホップ／ラップ",
+      "recommendedAt": "2026-11-27T06:47:05.902Z",
+      "insight": {
+        "歌手簡介": "舐達麻 是這次登上 iTunes 日本單曲榜的藝人，以《ONE DAY (feat. VIGORMAN)》這首 ヒップホップ／ラップ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《ONE DAY (feat. VIGORMAN)》屬於 ヒップホップ／ラップ 曲風，是 舐達麻 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6827446996",
+      "name": "I=WE",
+      "artist": "イルミネーションスターズ",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/3c/f2/b13cf26b-08e3-aced-866e-6339c5bd6bfb/4540774751556.png/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/i-we/6827446995?i=6827446996&uo=2",
+      "genre": "アニメ",
+      "recommendedAt": "2026-11-27T06:47:05.902Z",
+      "insight": {
+        "歌手簡介": "イルミネーションスターズ 是這次登上 iTunes 日本單曲榜的藝人，以《I=WE》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《I=WE》屬於 アニメ 曲風，是 イルミネーションスターズ 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "6823148846",
       "name": "Intentions",
       "artist": "宇多田ヒカル",
