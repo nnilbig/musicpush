@@ -1,6 +1,46 @@
 {
   "entries": [
     {
+      "id": "6837295978",
+      "name": "Closer",
+      "artist": "SixTONES",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/87/90/9887902a-3e2b-9378-f174-774627ab9db7/4547366871333.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/closer/6837295976?i=6837295978&uo=2",
+      "genre": "J-Pop",
+      "recommendedAt": "2026-11-28T06:21:22.986Z",
+      "insight": {
+        "歌手簡介": "SixTONES 是這次登上 iTunes 日本單曲榜的藝人，以《Closer》這首 J-Pop 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《Closer》屬於 J-Pop 曲風，是 SixTONES 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "6833400794",
+      "name": "アンバランス",
+      "artist": "初星学園, 雨夜 燕 & 有村麻央",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/1e/c8/341ec847-ddae-f350-2cef-ab73c830c8cc/PA00244198_0_258733_jacket.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%B3%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9/6833400793?i=6833400794&uo=2",
+      "genre": "アニメ",
+      "recommendedAt": "2026-11-28T06:21:22.986Z",
+      "insight": {
+        "歌手簡介": "初星学園, 雨夜 燕 & 有村麻央 是這次登上 iTunes 日本單曲榜的藝人，以《アンバランス》這首 アニメ 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《アンバランス》屬於 アニメ 曲風，是 初星学園, 雨夜 燕 & 有村麻央 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
+      "id": "1039793121",
+      "name": "新宝島",
+      "artist": "サカナクション",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/05/c2/69/05c269d6-377b-7a00-965a-215a8e51b831/VEATP-32901.jpg/170x170bb.png",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E6%96%B0%E5%AE%9D%E5%B3%B6/1039793113?i=1039793121&uo=2",
+      "releaseDate": "2015-09-30T05:00:00-07:00",
+      "genre": "ロック",
+      "recommendedAt": "2026-11-28T06:21:22.986Z",
+      "insight": {
+        "歌手簡介": "サカナクション 是這次登上 iTunes 日本單曲榜的藝人，以《新宝島》這首 ロック 作品獲得不少關注，展現出其在樂壇的人氣與影響力。",
+        "創作理念": "《新宝島》於 2015/9/30 發行，屬於 ロック 曲風，是 サカナクション 近期受到聽眾喜愛的代表作之一。"
+      }
+    },
+    {
       "id": "1501837364",
       "name": "人として",
       "artist": "SUPER BEAVER",
